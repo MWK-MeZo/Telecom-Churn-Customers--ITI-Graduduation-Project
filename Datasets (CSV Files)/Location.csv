@@ -1,0 +1,1626 @@
+LocationID,Country,State,City,Zip_Code,Population,Latitude,Longitude
+1,United States,California,Los Angeles,90001,54492,33.97361755,-118.2490234
+2,United States,California,Los Angeles,90002,44586,33.9492569,-118.2469788
+3,United States,California,Los Angeles,90003,58198,33.9641304,-118.2727814
+4,United States,California,Los Angeles,90004,67852,34.07625961,-118.3107147
+5,United States,California,Los Angeles,90005,43019,34.0592804,-118.3074188
+6,United States,California,Los Angeles,90006,62784,34.04801178,-118.2939529
+7,United States,California,Los Angeles,90007,45025,34.02733612,-118.2851486
+8,United States,California,Los Angeles,90008,30852,34.00829315,-118.3467636
+9,United States,California,Los Angeles,90010,1957,34.06212616,-118.315712
+10,United States,California,Los Angeles,90011,101215,34.00709152,-118.2586823
+11,United States,California,Los Angeles,90012,30596,34.06587601,-118.2387314
+12,United States,California,Los Angeles,90013,9732,34.04463959,-118.2404099
+13,United States,California,Los Angeles,90014,3524,34.04314423,-118.251976
+14,United States,California,Los Angeles,90015,15140,34.03922272,-118.2662964
+15,United States,California,Los Angeles,90016,46984,34.02833176,-118.3543396
+16,United States,California,Los Angeles,90017,20692,34.05284119,-118.2644958
+17,United States,California,Los Angeles,90018,47143,34.02873611,-118.3172379
+18,United States,California,Los Angeles,90019,67520,34.04984283,-118.3384628
+20,United States,California,Los Angeles,90021,3012,34.02904129,-118.239502
+21,United States,California,Los Angeles,90022,68701,34.02381134,-118.1565857
+22,United States,California,Los Angeles,90023,47487,34.01769638,-118.2005768
+23,United States,California,Los Angeles,90024,44150,34.06630325,-118.4354782
+24,United States,California,Los Angeles,90025,41175,34.0461731,-118.4463348
+25,United States,California,Los Angeles,90026,73686,34.07899094,-118.2638016
+26,United States,California,Los Angeles,90027,48727,34.12719345,-118.2956467
+27,United States,California,Los Angeles,90028,30568,34.09986877,-118.3268433
+28,United States,California,Los Angeles,90029,41713,34.08995438,-118.2948227
+29,United States,California,Los Angeles,90031,38415,34.0858078,-118.2066193
+30,United States,California,Los Angeles,90032,46960,34.07881927,-118.1775742
+31,United States,California,Los Angeles,90033,49431,34.0501976,-118.2109451
+32,United States,California,Los Angeles,90034,58218,34.03057861,-118.3996124
+33,United States,California,Los Angeles,90035,27799,34.0518074,-118.3838425
+34,United States,California,Los Angeles,90036,32901,34.07028961,-118.3491898
+35,United States,California,Los Angeles,90037,56709,34.00264359,-118.2875977
+36,United States,California,Los Angeles,90038,32562,34.08801651,-118.3271713
+37,United States,California,Los Angeles,90039,29310,34.11084366,-118.2595978
+38,United States,California,Los Angeles,90040,9805,33.99452209,-118.1499557
+39,United States,California,Los Angeles,90041,27866,34.13741302,-118.2076035
+40,United States,California,Los Angeles,90042,64672,34.11571884,-118.1927567
+41,United States,California,Los Angeles,90043,44764,33.98854446,-118.3340836
+42,United States,California,Los Angeles,90044,87383,33.95271301,-118.2920609
+43,United States,California,Los Angeles,90045,39334,33.95401764,-118.4024506
+44,United States,California,Los Angeles,90046,49839,34.10845566,-118.3620834
+45,United States,California,Los Angeles,90047,47107,33.95814896,-118.3084412
+46,United States,California,Los Angeles,90048,21739,34.07294464,-118.372673
+47,United States,California,Los Angeles,90049,33523,34.09182739,-118.4912415
+48,United States,California,Los Angeles,90056,8115,33.98794556,-118.3704453
+49,United States,California,Los Angeles,90057,44004,34.06191635,-118.2779388
+50,United States,California,Los Angeles,90058,3642,34.00161743,-118.2222748
+51,United States,California,Los Angeles,90059,38128,33.92725372,-118.2498245
+52,United States,California,Los Angeles,90061,24511,33.92127991,-118.2741852
+53,United States,California,Los Angeles,90062,29299,34.00355148,-118.3089294
+54,United States,California,Los Angeles,90063,55668,34.04426956,-118.1852341
+55,United States,California,Los Angeles,90064,24505,34.03725052,-118.4235764
+56,United States,California,Los Angeles,90065,47534,34.10883331,-118.2297134
+57,United States,California,Los Angeles,90066,55204,34.00202942,-118.4306564
+58,United States,California,Los Angeles,90067,2527,34.05749512,-118.4139557
+59,United States,California,Los Angeles,90068,21728,34.13740921,-118.3289185
+60,United States,California,West Hollywood,90069,20408,34.09378052,-118.3810577
+61,United States,California,Los Angeles,90071,21,34.05291748,-118.2551804
+62,United States,California,Los Angeles,90077,10470,34.10208511,-118.4516296
+63,United States,California,Bell,90201,105285,33.97034454,-118.1713715
+64,United States,California,Beverly Hills,90210,21397,34.09989166,-118.4143372
+65,United States,California,Beverly Hills,90211,8321,34.06394577,-118.3830032
+66,United States,California,Beverly Hills,90212,11355,34.06209564,-118.4015045
+67,United States,California,Compton,90220,47305,33.88151169,-118.2344513
+68,United States,California,Compton,90221,51387,33.88581085,-118.206459
+69,United States,California,Compton,90222,29825,33.9122467,-118.2367706
+70,United States,California,Culver City,90230,31963,33.99399185,-118.3970413
+71,United States,California,Culver City,90232,15195,34.01932144,-118.3918991
+72,United States,California,Downey,90240,24908,33.95622635,-118.1209946
+73,United States,California,Downey,90241,40152,33.94088364,-118.1286316
+74,United States,California,Downey,90242,42459,33.92179489,-118.1405869
+75,United States,California,El Segundo,90245,16041,33.91714478,-118.4015503
+76,United States,California,Gardena,90247,47758,33.89085388,-118.297966
+77,United States,California,Gardena,90248,9960,33.8764801,-118.2840805
+78,United States,California,Gardena,90249,26442,33.90139008,-118.3156967
+79,United States,California,Hawthorne,90250,93315,33.91477585,-118.3480835
+80,United States,California,Hermosa Beach,90254,18693,33.8653183,-118.3963394
+81,United States,California,Huntington Park,90255,78114,33.97803116,-118.2171402
+82,United States,California,Lawndale,90260,33300,33.88856125,-118.3518143
+83,United States,California,Lynwood,90262,69850,33.92357254,-118.2006683
+84,United States,California,Malibu,90263,11,34.0370369,-118.7058029
+85,United States,California,Malibu,90265,19630,34.07457352,-118.8311844
+86,United States,California,Manhattan Beach,90266,33758,33.88963318,-118.3973694
+87,United States,California,Maywood,90270,28094,33.98857117,-118.1865616
+88,United States,California,Pacific Palisades,90272,22548,34.0794487,-118.5483093
+89,United States,California,Palos Verdes Peninsula,90274,24979,33.78820801,-118.404953
+90,United States,California,Rancho Palos Verdes,90275,41263,33.75314713,-118.3674622
+91,United States,California,Redondo Beach,90277,34191,33.83045197,-118.3845673
+92,United States,California,Redondo Beach,90278,37322,33.87339401,-118.3701935
+93,United States,California,South Gate,90280,96267,33.94462585,-118.1926117
+94,United States,California,Topanga,90290,5451,34.11519241,-118.6101685
+95,United States,California,Venice,90291,31021,33.99178314,-118.4792328
+96,United States,California,Marina Del Rey,90292,18058,33.97746658,-118.4454727
+97,United States,California,Playa Del Rey,90293,11264,33.94730377,-118.4398422
+98,United States,California,Inglewood,90301,37527,33.95644379,-118.3586349
+99,United States,California,Inglewood,90302,30779,33.97533035,-118.3552551
+100,United States,California,Inglewood,90303,27778,33.93629074,-118.3326416
+101,United States,California,Inglewood,90304,28680,33.93682861,-118.3598251
+102,United States,California,Inglewood,90305,13779,33.9581337,-118.3309021
+103,United States,California,Santa Monica,90401,5221,34.01548004,-118.4932327
+104,United States,California,Santa Monica,90402,11509,34.03585052,-118.5035095
+105,United States,California,Santa Monica,90403,23559,34.03152847,-118.4911575
+106,United States,California,Santa Monica,90404,19975,34.02633286,-118.4742203
+107,United States,California,Santa Monica,90405,26099,34.00543976,-118.4775085
+108,United States,California,Torrance,90501,40705,33.83369827,-118.3143845
+109,United States,California,Torrance,90502,17058,33.83317947,-118.2920609
+110,United States,California,Torrance,90503,41979,33.8404007,-118.353714
+111,United States,California,Torrance,90504,31678,33.86725616,-118.3307953
+112,United States,California,Torrance,90505,34873,33.8078804,-118.3479538
+113,United States,California,Whittier,90601,32050,34.00735474,-118.0336838
+114,United States,California,Whittier,90602,26265,33.97211838,-118.0201874
+115,United States,California,Whittier,90603,19109,33.94531631,-117.9920654
+116,United States,California,Whittier,90604,37887,33.92970276,-118.0120773
+117,United States,California,Whittier,90605,38181,33.96089172,-118.0322189
+118,United States,California,Whittier,90606,32148,33.97667694,-118.0658722
+119,United States,California,Buena Park,90620,44442,33.84570694,-118.012207
+120,United States,California,Buena Park,90621,33528,33.87422562,-117.9933701
+121,United States,California,La Palma,90623,15505,33.85050583,-118.0398941
+122,United States,California,Cypress,90630,47344,33.81847763,-118.0383072
+123,United States,California,La Habra,90631,67354,33.94062042,-117.9513016
+124,United States,California,La Mirada,90638,47568,33.9020462,-118.0089645
+125,United States,California,Montebello,90640,62425,34.01521683,-118.1099625
+126,United States,California,Norwalk,90650,103214,33.9059639,-118.0826263
+127,United States,California,Pico Rivera,90660,63288,33.98952484,-118.0893021
+128,United States,California,Santa Fe Springs,90670,16271,33.93356323,-118.0626144
+129,United States,California,Stanton,90680,29694,33.80186844,-117.9950714
+130,United States,California,Artesia,90701,16398,33.86759186,-118.0806351
+131,United States,California,Cerritos,90703,51556,33.86809921,-118.0674057
+132,United States,California,Avalon,90704,3699,33.39118195,-118.4213028
+133,United States,California,Bellflower,90706,72893,33.88767624,-118.1272888
+134,United States,California,Harbor City,90710,24660,33.79826736,-118.3002396
+135,United States,California,Lakewood,90712,30173,33.84052277,-118.1483994
+136,United States,California,Lakewood,90713,27563,33.84775543,-118.1125336
+137,United States,California,Lakewood,90715,20890,33.84102631,-118.0780945
+138,United States,California,Hawaiian Gardens,90716,14852,33.83043289,-118.0740738
+139,United States,California,Lomita,90717,21065,33.79420853,-118.3173523
+140,United States,California,Los Alamitos,90720,21343,33.79499054,-118.0655899
+141,United States,California,Paramount,90723,55306,33.89712143,-118.1644287
+142,United States,California,San Pedro,90731,58639,33.73638535,-118.2843628
+143,United States,California,San Pedro,90732,21279,33.74411774,-118.3144836
+144,United States,California,Seal Beach,90740,24180,33.7546196,-118.0711288
+145,United States,California,Sunset Beach,90742,1107,33.71921921,-118.0735931
+146,United States,California,Surfside,90743,174,33.72827148,-118.0853043
+147,United States,California,Wilmington,90744,53323,33.78206635,-118.2622604
+148,United States,California,Carson,90745,55486,33.82229614,-118.2641068
+149,United States,California,Carson,90746,25566,33.85917282,-118.2522736
+150,United States,California,Long Beach,90802,38427,33.75252533,-118.2107391
+151,United States,California,Long Beach,90803,31352,33.7604599,-118.1297226
+152,United States,California,Long Beach,90804,43467,33.78304672,-118.1485977
+153,United States,California,Long Beach,90805,91664,33.86462021,-118.1796265
+154,United States,California,Long Beach,90806,49647,33.80266571,-118.1799698
+155,United States,California,Long Beach,90807,31556,33.8300972,-118.1822357
+156,United States,California,Long Beach,90808,37417,33.82394409,-118.1113358
+157,United States,California,Long Beach,90810,35656,33.81981277,-118.2224197
+158,United States,California,Long Beach,90813,63136,33.78108597,-118.1990509
+159,United States,California,Long Beach,90814,19034,33.77161026,-118.1438675
+160,United States,California,Long Beach,90815,38902,33.79763794,-118.1166229
+161,United States,California,Long Beach,90822,425,33.77843475,-118.1186447
+162,United States,California,Altadena,91001,36243,34.19683838,-118.1422348
+163,United States,California,Arcadia,91006,30028,34.13731766,-118.0298386
+164,United States,California,Arcadia,91007,30933,34.12828445,-118.0477295
+165,United States,California,Duarte,91010,27414,34.14569473,-117.9598236
+166,United States,California,La Canada Flintridge,91011,20200,34.23491287,-118.1537323
+167,United States,California,Monrovia,91016,41067,34.15280151,-118.0004807
+168,United States,California,Montrose,91020,7527,34.21120071,-118.2306213
+169,United States,California,Sierra Madre,91024,10558,34.16868591,-118.0575027
+170,United States,California,South Pasadena,91030,23984,34.11044312,-118.1569595
+171,United States,California,Sunland,91040,18752,34.2827034,-118.3129272
+172,United States,California,Tujunga,91042,26753,34.29657364,-118.2448425
+173,United States,California,Pasadena,91101,16812,34.14663315,-118.1392212
+174,United States,California,Pasadena,91103,27891,34.16746521,-118.165329
+175,United States,California,Pasadena,91104,38460,34.16538239,-118.1237488
+176,United States,California,Pasadena,91105,10253,34.13946152,-118.1666489
+177,United States,California,Pasadena,91106,23742,34.13940048,-118.1286545
+178,United States,California,Pasadena,91107,32369,34.15900803,-118.0873566
+179,United States,California,San Marino,91108,13158,34.12266922,-118.1129074
+180,United States,California,Glendale,91201,23981,34.17050934,-118.2894592
+181,United States,California,Glendale,91202,21990,34.16792679,-118.26754
+182,United States,California,Glendale,91203,14493,34.15333939,-118.2629776
+183,United States,California,Glendale,91204,17015,34.13630676,-118.2603607
+184,United States,California,Glendale,91205,41390,34.13658142,-118.245842
+185,United States,California,Glendale,91206,31297,34.16251373,-118.2038727
+186,United States,California,Glendale,91207,9864,34.18237686,-118.2629242
+187,United States,California,Glendale,91208,16910,34.19538498,-118.2385101
+188,United States,California,La Crescenta,91214,29110,34.23963547,-118.2452621
+189,United States,California,Agoura Hills,91301,25303,34.12905884,-118.7597885
+190,United States,California,Calabasas,91302,23661,34.13085938,-118.6834564
+191,United States,California,Canoga Park,91303,23519,34.19829178,-118.6022034
+192,United States,California,Canoga Park,91304,49242,34.22437668,-118.6326523
+193,United States,California,Winnetka,91306,43857,34.20953369,-118.5775604
+194,United States,California,West Hills,91307,23637,34.19978714,-118.6849289
+195,United States,California,Chatsworth,91311,35325,34.29414368,-118.6038818
+196,United States,California,Encino,91316,27614,34.15035248,-118.5182953
+197,United States,California,Newbury Park,91320,37779,34.17206955,-118.9462585
+198,United States,California,Newhall,91321,30742,34.37037659,-118.5041199
+199,United States,California,Northridge,91324,25751,34.23820877,-118.550293
+200,United States,California,Northridge,91325,32307,34.23668289,-118.5175858
+201,United States,California,Porter Ranch,91326,28067,34.28190994,-118.556221
+202,United States,California,Pacoima,91331,97318,34.25544357,-118.4213104
+203,United States,California,Reseda,91335,68018,34.20017624,-118.5409546
+204,United States,California,San Fernando,91340,33389,34.28613281,-118.4359665
+205,United States,California,Sylmar,91342,81986,34.32162094,-118.3998413
+206,United States,California,North Hills,91343,57017,34.23880386,-118.4822998
+207,United States,California,Granada Hills,91344,48867,34.29127121,-118.5051041
+208,United States,California,Mission Hills,91345,17112,34.26638794,-118.4597473
+209,United States,California,Santa Clarita,91350,40077,34.50243378,-118.4145889
+210,United States,California,Canyon Country,91351,59259,34.42251968,-118.4207153
+211,United States,California,Sun Valley,91352,46639,34.2310524,-118.3383102
+212,United States,California,Valencia,91354,17846,34.45700455,-118.5737228
+213,United States,California,Valencia,91355,24977,34.43986893,-118.6446075
+214,United States,California,Tarzana,91356,27424,34.15713882,-118.5485077
+215,United States,California,Thousand Oaks,91360,42526,34.21405411,-118.8810883
+216,United States,California,Westlake Village,91361,18735,34.13099289,-118.8946762
+217,United States,California,Thousand Oaks,91362,33057,34.19184113,-118.8227997
+218,United States,California,Woodland Hills,91364,25988,34.1537323,-118.5934067
+219,United States,California,Woodland Hills,91367,36123,34.17806625,-118.615715
+220,United States,California,Oak Park,91377,14814,34.1922493,-118.7768707
+221,United States,California,Stevenson Ranch,91381,9937,34.36415482,-118.6155853
+222,United States,California,Castaic,91384,22177,34.50662613,-118.6990509
+223,United States,California,Van Nuys,91401,40376,34.17848206,-118.4317932
+225,United States,California,Sherman Oaks,91403,22085,34.14714813,-118.4633636
+226,United States,California,Van Nuys,91405,51348,34.20249557,-118.4480515
+227,United States,California,Van Nuys,91406,50047,34.19568634,-118.4907532
+228,United States,California,Van Nuys,91411,23646,34.17847061,-118.4594727
+229,United States,California,Sherman Oaks,91423,29387,34.1469574,-118.4321365
+230,United States,California,Encino,91436,13129,34.15287399,-118.4860535
+231,United States,California,Burbank,91501,18112,34.18833923,-118.3009415
+232,United States,California,Burbank,91502,11517,34.17726517,-118.3100281
+233,United States,California,Burbank,91504,25882,34.21305084,-118.3176498
+234,United States,California,Burbank,91505,29245,34.17421341,-118.3459244
+235,United States,California,Burbank,91506,18539,34.16970444,-118.3235474
+236,United States,California,North Hollywood,91601,36625,34.1692009,-118.3724976
+237,United States,California,North Hollywood,91602,16996,34.15135956,-118.3647842
+238,United States,California,Studio City,91604,26157,34.13908386,-118.3927536
+239,United States,California,North Hollywood,91605,57146,34.20729446,-118.4000244
+240,United States,California,North Hollywood,91606,45358,34.18759918,-118.3871231
+241,United States,California,Valley Village,91607,27453,34.16578293,-118.3997955
+242,United States,California,Rancho Cucamonga,91701,39064,34.13227463,-117.6114807
+243,United States,California,Azusa,91702,57775,34.17449188,-117.8706818
+244,United States,California,Baldwin Park,91706,76890,34.09827423,-117.9673996
+245,United States,California,Chino Hills,91709,66754,33.94289398,-117.725647
+246,United States,California,Chino,91710,75319,33.99064636,-117.6630249
+247,United States,California,Claremont,91711,34716,34.1276207,-117.717865
+248,United States,California,Covina,91722,33817,34.09734344,-117.9067383
+249,United States,California,Covina,91723,17554,34.08474731,-117.8868408
+250,United States,California,Covina,91724,25068,34.08110809,-117.8539352
+251,United States,California,Rancho Cucamonga,91730,51970,34.10097122,-117.5788193
+252,United States,California,El Monte,91731,30211,34.07993317,-118.0466919
+253,United States,California,El Monte,91732,62660,34.07449341,-118.0146179
+254,United States,California,South El Monte,91733,45645,34.04621887,-118.0537567
+255,United States,California,Rancho Cucamonga,91737,23079,34.24528885,-117.6425018
+256,United States,California,Rancho Cucamonga,91739,12937,34.13380814,-117.5237274
+257,United States,California,Glendora,91740,25135,34.11936188,-117.8550568
+258,United States,California,Glendora,91741,24973,34.14648819,-117.8498154
+260,United States,California,La Puente,91744,84965,34.03144073,-117.9364395
+261,United States,California,Hacienda Heights,91745,53686,33.99847031,-117.9737549
+262,United States,California,La Puente,91746,30802,34.03898239,-117.9913712
+263,United States,California,Rowland Heights,91748,46342,33.97675323,-117.8973694
+264,United States,California,La Verne,91750,35530,34.14470291,-117.7703018
+265,United States,California,Mira Loma,91752,18980,33.99999237,-117.5353928
+266,United States,California,Monterey Park,91754,33280,34.05032349,-118.1470337
+267,United States,California,Monterey Park,91755,26933,34.04917145,-118.1150208
+268,United States,California,Mt Baldy,91759,47,34.23131943,-117.6620331
+269,United States,California,Ontario,91761,56280,34.03560257,-117.5915298
+270,United States,California,Ontario,91762,54254,34.05725479,-117.6676788
+271,United States,California,Montclair,91763,34447,34.07212067,-117.6983185
+272,United States,California,Ontario,91764,49474,34.07408524,-117.6056213
+273,United States,California,Diamond Bar,91765,46532,33.99241638,-117.8078766
+274,United States,California,Pomona,91766,69974,34.04228592,-117.7561035
+275,United States,California,Pomona,91767,46626,34.08308411,-117.737999
+276,United States,California,Pomona,91768,36057,34.06793213,-117.7851715
+277,United States,California,Rosemead,91770,61623,34.06510925,-118.0827942
+278,United States,California,San Dimas,91773,33878,34.10211945,-117.8155289
+279,United States,California,San Gabriel,91775,23444,34.1147728,-118.0894318
+280,United States,California,San Gabriel,91776,38041,34.08992767,-118.0956421
+281,United States,California,Temple City,91780,32718,34.10160828,-118.0558472
+282,United States,California,Upland,91784,23331,34.14114761,-117.6555862
+283,United States,California,Upland,91786,48827,34.10549164,-117.6609344
+284,United States,California,Walnut,91789,45118,34.01835251,-117.8549194
+285,United States,California,West Covina,91790,44099,34.0669632,-117.9370041
+286,United States,California,West Covina,91791,30458,34.06163406,-117.8931656
+287,United States,California,West Covina,91792,31622,34.02440643,-117.8987198
+288,United States,California,Alhambra,91801,54382,34.09092331,-118.1281662
+289,United States,California,Alhambra,91803,30635,34.07473755,-118.1459579
+290,United States,California,Alpine,91901,16486,32.82718277,-116.7037277
+291,United States,California,Bonita,91902,17389,32.67116928,-117.0023193
+292,United States,California,Boulevard,91905,1509,32.67709732,-116.3049927
+293,United States,California,Campo,91906,3133,32.6734848,-116.4728622
+294,United States,California,Chula Vista,91910,74025,32.63679123,-117.0549927
+295,United States,California,Chula Vista,91911,71126,32.60796356,-117.0594559
+296,United States,California,Chula Vista,91913,12884,32.64163971,-116.9850235
+297,United States,California,Chula Vista,91914,2606,32.68850708,-116.9386292
+298,United States,California,Chula Vista,91915,9278,32.60501099,-116.9759521
+299,United States,California,Descanso,91916,1587,32.91266251,-116.6353836
+300,United States,California,Dulzura,91917,727,32.62299728,-116.6878586
+301,United States,California,Guatay,91931,796,32.85794449,-116.5619202
+302,United States,California,Imperial Beach,91932,26662,32.57913589,-117.1190109
+303,United States,California,Jacumba,91934,699,32.6497879,-116.2237015
+304,United States,California,Jamul,91935,8759,32.69568253,-116.7983856
+305,United States,California,La Mesa,91941,44652,32.75932693,-116.997261
+306,United States,California,La Mesa,91942,24005,32.78250122,-117.0161133
+307,United States,California,Lemon Grove,91945,24961,32.73356247,-117.0337143
+308,United States,California,Mount Laguna,91948,81,32.83085251,-116.444603
+309,United States,California,National City,91950,62355,32.67102051,-117.0952377
+310,United States,California,Pine Valley,91962,1604,32.80067062,-116.4833603
+311,United States,California,Potrero,91963,905,32.61946487,-116.593605
+312,United States,California,Spring Valley,91977,56100,32.72662735,-116.994606
+313,United States,California,Spring Valley,91978,7863,32.73026276,-116.9509659
+314,United States,California,Tecate,91980,91,32.58755875,-116.6368179
+315,United States,California,Bonsall,92003,3849,33.29090881,-117.2028961
+316,United States,California,Borrego Springs,92004,2863,33.20037079,-116.1923141
+317,United States,California,Cardiff By The Sea,92007,10375,33.01586533,-117.2722549
+318,United States,California,Carlsbad,92008,35582,33.14811707,-117.3060455
+319,United States,California,Carlsbad,92009,43161,33.09801865,-117.2582016
+320,United States,California,Del Mar,92014,13945,32.94826126,-117.2560883
+321,United States,California,El Cajon,92019,40995,32.78516388,-116.862648
+322,United States,California,El Cajon,92020,55277,32.79697037,-116.9690857
+323,United States,California,El Cajon,92021,61872,32.83270645,-116.8732605
+324,United States,California,Encinitas,92024,47126,33.05458069,-117.2566528
+325,United States,California,Escondido,92025,49281,33.08147812,-117.0338135
+326,United States,California,Escondido,92026,43436,33.21846008,-117.1169128
+327,United States,California,Fort Jones,92027,48690,33.14126587,-116.9672241
+328,United States,California,Lone Pine,92028,42239,33.36257553,-117.2996445
+329,United States,California,Escondido,92029,17944,33.07983398,-117.1342773
+330,United States,California,Julian,92036,3577,32.98067856,-116.2628555
+331,United States,California,La Jolla,92037,42617,32.85374451,-117.2503433
+332,United States,California,Lakeside,92040,42277,32.90987396,-116.9067764
+333,United States,California,Oceanside,92054,98239,33.35105896,-117.4205551
+334,United States,California,Oceanside,92056,52895,33.1947403,-117.2903214
+335,United States,California,Oceanside,92057,46893,33.25449753,-117.285881
+336,United States,California,Pala,92059,1831,33.38434601,-117.0726166
+337,United States,California,Palomar Mountain,92060,234,33.3098526,-116.8230896
+338,United States,California,Pauma Valley,92061,2615,33.31382751,-116.9404984
+339,United States,California,Poway,92064,47969,32.98439407,-117.0134506
+340,United States,California,Ramona,92065,33104,33.04454041,-116.8339233
+341,United States,California,Ranchita,92066,339,33.21525192,-116.5363312
+342,United States,California,Rancho Santa Fe,92067,7615,33.01275253,-117.2006149
+343,United States,California,San Marcos,92069,52664,33.16262436,-117.1708603
+344,United States,California,Santa Ysabel,92070,1143,33.17472458,-116.7433319
+345,United States,California,Santee,92071,53510,32.84733582,-116.9976044
+346,United States,California,Solana Beach,92075,12173,33.00181198,-117.2636261
+347,United States,California,San Marcos,92078,6760,33.11902618,-117.1660385
+348,United States,California,Valley Center,92082,14575,33.25283051,-116.9860764
+349,United States,California,Vista,92083,62036,33.1749382,-117.2427597
+350,United States,California,Vista,92084,44692,33.22784042,-117.2000275
+351,United States,California,Warner Springs,92086,1205,33.32370377,-116.6269073
+352,United States,California,Rancho Santa Fe,92091,1072,32.99356079,-117.2071228
+353,United States,California,San Diego,92101,27505,32.72523117,-117.1713486
+354,United States,California,San Diego,92102,47140,32.71600723,-117.1174622
+355,United States,California,San Diego,92103,30202,32.7474823,-117.1668777
+356,United States,California,San Diego,92104,47689,32.74150085,-117.1274109
+357,United States,California,San Diego,92105,73006,32.74185944,-117.0903549
+358,United States,California,San Diego,92106,18525,32.71345901,-117.2363815
+359,United States,California,San Diego,92107,27959,32.74185181,-117.243454
+360,United States,California,San Diego,92108,11650,32.77404785,-117.1424561
+361,United States,California,San Gabriel,92109,46086,32.78783417,-117.2323761
+362,United States,California,San Diego,92110,24169,32.76501083,-117.199379
+363,United States,California,San Diego,92111,46828,32.8055191,-117.1690521
+364,United States,California,San Diego,92113,47431,32.69709778,-117.1165848
+365,United States,California,San Diego,92114,66838,32.70789337,-117.0551224
+366,United States,California,San Diego,92115,56887,32.76250458,-117.0724487
+367,United States,California,San Diego,92116,33083,32.76530075,-117.1225662
+368,United States,California,San Diego,92117,51213,32.82508469,-117.1994247
+369,United States,California,Coronado,92118,24093,32.68674088,-117.186615
+370,United States,California,San Diego,92119,21866,32.80295944,-117.027092
+371,United States,California,San Diego,92120,25569,32.80786514,-117.0609894
+372,United States,California,Los Angeles,92121,4258,32.89861298,-117.2029343
+373,United States,California,Oceanside,92122,34902,32.85723114,-117.2097702
+374,United States,California,San Diego,92123,25232,32.808815,-117.134697
+375,United States,California,San Diego,92124,30206,32.82723618,-117.0892868
+376,United States,California,San Diego,92126,74232,32.88692474,-117.1521606
+377,United States,California,San Diego,92127,20046,33.01751709,-117.118454
+378,United States,California,San Diego,92128,42733,33.00027084,-117.0720901
+379,United States,California,Tipton,92129,47224,32.96106339,-117.1349182
+380,United States,California,Likely,92130,28201,32.95719528,-117.2025452
+381,United States,California,San Diego,92131,29283,32.89324951,-117.0870895
+382,United States,California,San Diego,92139,36351,32.6777153,-117.0476685
+383,United States,California,San Diego,92154,68776,32.57810211,-117.0129776
+384,United States,California,San Ysidro,92173,28488,32.55582809,-117.0400696
+385,United States,California,Indio,92201,56307,33.71389008,-116.2372589
+386,United States,California,Indio,92203,2743,33.75293732,-116.2300568
+387,United States,California,Indian Wells,92210,3873,33.53764725,-116.2910919
+388,United States,California,Palm Desert,92211,19702,33.76276016,-116.3248138
+389,United States,California,Banning,92220,25859,33.93629837,-116.8495789
+390,United States,California,Beaumont,92223,17721,33.94698334,-116.9776688
+391,United States,California,Blythe,92225,24659,33.67458344,-114.7161179
+392,United States,California,Brawley,92227,23394,33.03932953,-115.1918564
+393,United States,California,Cabazon,92230,2355,33.92981339,-116.760582
+394,United States,California,Calexico,92231,27804,32.69065475,-115.4312286
+395,United States,California,Calipatria,92233,7857,33.14382553,-115.4974823
+396,United States,California,Cathedral City,92234,43141,33.82958221,-116.4741287
+397,United States,California,Coachella,92236,23170,33.68003082,-116.1716766
+398,United States,California,Desert Center,92239,964,33.88960648,-115.2570114
+399,United States,California,Desert Hot Springs,92240,22796,33.94855881,-116.5169754
+400,United States,California,Desert Hot Springs,92241,5529,33.832798,-116.2509766
+401,United States,California,Earp,92242,1564,34.13774109,-114.3651428
+402,United States,California,El Centro,92243,43712,32.77039337,-115.6091537
+403,United States,California,Heber,92249,3535,32.73058319,-115.5010834
+404,United States,California,Holtville,92250,8062,32.81100082,-115.1528625
+405,United States,California,Imperial,92251,14546,32.8585968,-115.6627121
+406,United States,California,Joshua Tree,92252,8141,34.16723633,-116.2815094
+407,United States,California,La Quinta,92253,23971,33.69553375,-116.3105698
+408,United States,California,Mecca,92254,8768,33.54383469,-115.9939041
+409,United States,California,Morongo Valley,92256,3499,34.09786224,-116.5945587
+410,United States,California,Niland,92257,2753,33.3458252,-115.5965729
+411,United States,California,North Palm Springs,92258,732,33.90649414,-116.5694962
+412,United States,California,Ocotillo,92259,471,32.69896317,-115.8866577
+413,United States,California,Palm Desert,92260,29340,33.69449997,-116.4127121
+414,United States,California,Palm Springs,92262,24924,33.83998871,-116.6592178
+415,United States,California,Palm Springs,92264,18884,33.74574661,-116.5142136
+416,United States,California,Palo Verde,92266,291,33.32490158,-114.7583313
+417,United States,California,Parker Dam,92267,131,34.27387238,-114.1929016
+418,United States,California,Pioneertown,92268,354,34.20110703,-116.5934525
+419,United States,California,Rancho Mirage,92270,12465,33.7636795,-116.4299316
+420,United States,California,Seeley,92273,1632,32.7902832,-115.6895599
+421,United States,California,Thermal,92274,17018,33.53604126,-116.1192245
+422,United States,California,Salton City,92275,799,33.28155899,-115.9555435
+423,United States,California,Thousand Palms,92276,6242,33.84926224,-116.3827744
+425,United States,California,Twentynine Palms,92278,14104,34.45782852,-116.1395874
+427,United States,California,Westmorland,92281,2388,33.03678894,-115.6050262
+428,United States,California,White Water,92282,805,33.97229385,-116.6541977
+429,United States,California,Winterhaven,92283,3663,32.85294724,-114.8507843
+430,United States,California,Yucca Valley,92284,20486,34.15953445,-116.4259872
+431,United States,California,Landers,92285,2182,34.34173584,-116.5394135
+432,United States,California,Adelanto,92301,18980,34.66781616,-117.5361862
+433,United States,California,Amboy,92304,42,34.55988312,-115.6371613
+434,United States,California,Angelus Oaks,92305,301,34.1678009,-116.8643265
+436,United States,California,Apple Valley,92308,28819,34.42492676,-117.1845016
+437,United States,California,Baker,92309,904,35.28952026,-116.0922165
+438,United States,California,Fort Irwin,92310,9465,35.34923935,-116.7702789
+439,United States,California,Barstow,92311,31293,34.96564865,-117.0015106
+440,United States,California,Grand Terrace,92313,11024,34.0291748,-117.3072128
+441,United States,California,Big Bear City,92314,9899,34.27896881,-116.7738266
+442,United States,California,Big Bear Lake,92315,5447,34.2420578,-116.8980179
+443,United States,California,Bloomington,92316,25995,34.0597229,-117.391037
+446,United States,California,Calimesa,92320,7334,33.98278809,-117.0576248
+447,United States,California,Cedar Glen,92321,455,34.25520325,-117.1756516
+449,United States,California,Colton,92324,52202,34.03091431,-117.273201
+450,United States,California,Crestline,92325,10484,34.24806213,-117.2902832
+451,United States,California,Daggett,92327,678,34.87514496,-116.821701
+452,United States,California,Death Valley,92328,443,36.27687836,-117.0333252
+453,United States,California,Essex,92332,115,34.9435997,-115.2879028
+454,United States,California,Fawnskin,92333,414,34.27484512,-116.9375839
+455,United States,California,Fontana,92335,82630,34.08755875,-117.4640961
+456,United States,California,Fontana,92336,54586,34.1363678,-117.4608002
+457,United States,California,Fontana,92337,29847,34.04967117,-117.468895
+458,United States,California,Ludlow,92338,23,34.70276642,-116.0933762
+459,United States,California,Forest Falls,92339,958,34.06769943,-116.9038925
+460,United States,California,Green Valley Lake,92341,317,34.24441147,-117.0726547
+461,United States,California,Helendale,92342,4948,34.75778198,-117.3399734
+462,United States,California,Hesperia,92345,68515,34.36138535,-117.3375092
+463,United States,California,Highland,92346,48245,34.12967682,-117.154274
+464,United States,California,Hinkley,92347,1933,34.98380661,-117.2393036
+465,United States,California,Lake Arrowhead,92352,9793,34.25650024,-117.1933517
+466,United States,California,Loma Linda,92354,18068,34.04931641,-117.2559738
+467,United States,California,Lucerne Valley,92356,5256,34.50841522,-116.856102
+468,United States,California,Lytle Creek,92358,1090,34.23816299,-117.5343094
+469,United States,California,Mentone,92359,7324,34.10357666,-117.0405426
+470,United States,California,Needles,92363,5488,34.7112236,-114.7022552
+471,United States,California,Nipton,92364,162,35.47873688,-115.516983
+473,United States,California,Oro Grande,92368,909,34.64796066,-117.2969589
+474,United States,California,Phelan,92371,12463,34.44112396,-117.5378876
+475,United States,California,Pinon Hills,92372,4280,34.45932388,-117.6297302
+476,United States,California,Redlands,92373,31230,34.00324249,-117.1382828
+477,United States,California,Redlands,92374,36675,34.06407166,-117.1661606
+478,United States,California,Rialto,92376,75882,34.10977554,-117.3789063
+479,United States,California,Rialto,92377,18518,34.15675735,-117.404686
+480,United States,California,Running Springs,92382,5395,34.18621063,-117.076828
+481,United States,California,Shoshone,92384,87,35.92425156,-116.1886673
+482,United States,California,Sugarloaf,92386,1834,34.24308777,-116.8300171
+484,United States,California,Victorville,92392,63235,34.48683548,-117.3622742
+485,United States,California,Victorville,92394,12083,34.56705856,-117.3623276
+486,United States,California,Wrightwood,92397,4253,34.35832214,-117.6182632
+487,United States,California,Yermo,92398,1195,35.01329803,-116.8340912
+488,United States,California,Yucaipa,92399,41575,34.04597092,-117.0118256
+489,United States,California,San Bernardino,92401,1779,34.10593414,-117.2913971
+490,United States,California,San Bernardino,92404,53636,34.18328476,-117.2217255
+491,United States,California,San Bernardino,92405,24644,34.14274597,-117.3008652
+492,United States,California,San Bernardino,92407,49355,34.25006866,-117.3939514
+493,United States,California,San Bernardino,92408,12149,34.08490753,-117.25811
+494,United States,California,San Bernardino,92410,44556,34.10692215,-117.297554
+495,United States,California,San Bernardino,92411,23146,34.12250137,-117.320137
+496,United States,California,Riverside,92501,18999,33.99467468,-117.3724976
+497,United States,California,Riverside,92503,71678,33.89004517,-117.4555817
+498,United States,California,Riverside,92504,46550,33.91080093,-117.3981552
+499,United States,California,Riverside,92505,38446,33.92090607,-117.4894257
+500,United States,California,Riverside,92506,42425,33.93093109,-117.3617859
+501,United States,California,Riverside,92507,48649,33.9763298,-117.3197861
+502,United States,California,Riverside,92508,17147,33.88549805,-117.3249588
+503,United States,California,Riverside,92509,63999,34.00437927,-117.4478607
+504,United States,California,March Air Reserve Base,92518,1005,33.88832474,-117.2775345
+505,United States,California,Lake Elsinore,92530,38519,33.65542221,-117.3917542
+506,United States,California,Lake Elsinore,92532,4546,33.70583725,-117.3182068
+507,United States,California,Aguanga,92536,2433,33.48224258,-116.8271713
+508,United States,California,Anza,92539,3745,33.52760315,-116.6665497
+509,United States,California,Hemet,92543,29687,33.73941422,-116.968338
+510,United States,California,Hemet,92544,39264,33.64458466,-116.8715439
+511,United States,California,Hemet,92545,25694,33.73493195,-117.0441437
+512,United States,California,Homeland,92548,4283,33.76189423,-117.1208649
+513,United States,California,Idyllwild,92549,3588,33.75503922,-116.7417984
+514,United States,California,Moreno Valley,92551,22983,33.88274002,-117.2248764
+515,United States,California,Moreno Valley,92553,61205,33.92314911,-117.2449341
+516,United States,California,Moreno Valley,92555,12743,33.90736008,-117.1099701
+517,United States,California,Moreno Valley,92557,46214,33.97066116,-117.2550354
+518,United States,California,Mountain Center,92561,1500,33.63864517,-116.5578308
+519,United States,California,Murrieta,92562,36149,33.54887009,-117.3341675
+520,United States,California,Murrieta,92563,18311,33.58104324,-117.1471863
+521,United States,California,Nuevo,92567,7344,33.82769012,-117.1022415
+522,United States,California,Perris,92570,36817,33.7872963,-117.3206787
+523,United States,California,Perris,92571,26357,33.82828903,-117.2016678
+524,United States,California,San Jacinto,92582,4456,33.80670929,-117.0200729
+525,United States,California,San Jacinto,92583,21349,33.79656982,-116.9247208
+526,United States,California,Menifee,92584,14068,33.65333939,-117.1782684
+527,United States,California,Sun City,92585,8692,33.7394104,-117.1733322
+528,United States,California,Sun City,92586,18161,33.70748138,-117.2000046
+529,United States,California,Sun City,92587,13151,33.69887161,-117.2507095
+530,United States,California,Temecula,92590,3070,33.47549438,-117.2195511
+531,United States,California,Temecula,92591,25655,33.54060364,-117.1090927
+532,United States,California,Inyokern,92592,46171,33.50725555,-117.0294724
+533,United States,California,Wildomar,92595,19368,33.61710739,-117.2533493
+534,United States,California,Winchester,92596,4093,33.65743256,-117.0425415
+535,United States,California,Irvine,92602,2762,33.7203598,-117.7336578
+536,United States,California,Irvine,92604,27369,33.68854523,-117.7880936
+537,United States,California,Irvine,92606,17621,33.70397568,-117.824173
+538,United States,California,Foothill Ranch,92610,10936,33.69872665,-117.677681
+539,United States,California,Irvine,92612,41062,33.64309311,-117.8108978
+540,United States,California,Irvine,92614,22499,33.68030167,-117.8332977
+541,United States,California,Irvine,92618,6301,33.66714478,-117.732132
+542,United States,California,Irvine,92620,26419,33.71613693,-117.7525711
+543,United States,California,Capistrano Beach,92624,7465,33.45875549,-117.6651077
+544,United States,California,Corona Del Mar,92625,13422,33.60098648,-117.8627319
+545,United States,California,Costa Mesa,92626,48207,33.67859268,-117.9054718
+546,United States,California,Costa Mesa,92627,62069,33.64567184,-117.9226151
+547,United States,California,Dana Point,92629,27730,33.47792435,-117.7053146
+548,United States,California,Lake Forest,92630,59176,33.64484787,-117.6842575
+549,United States,California,Huntington Beach,92646,56517,33.66630173,-117.9694977
+550,United States,California,Huntington Beach,92647,58764,33.72357941,-118.0054398
+551,United States,California,Huntington Beach,92648,42663,33.6796608,-118.0161972
+552,United States,California,Huntington Beach,92649,32304,33.7219162,-118.0432358
+553,United States,California,Laguna Beach,92651,25206,33.57002258,-117.7736664
+554,United States,California,Laguna Hills,92653,48273,33.60689926,-117.7178574
+555,United States,California,Midway City,92655,8660,33.74443817,-117.985878
+556,United States,California,Aliso Viejo,92656,41237,33.57125854,-117.7319183
+557,United States,California,Newport Coast,92657,5597,33.60328293,-117.8218384
+558,United States,California,Newport Beach,92660,28687,33.63462448,-117.8748856
+559,United States,California,Newport Beach,92661,4242,33.60131073,-117.9023056
+560,United States,California,Newport Beach,92662,3124,33.60633469,-117.8930435
+561,United States,California,Newport Beach,92663,22133,33.622509,-117.9270248
+562,United States,California,San Clemente,92672,34946,33.42948914,-117.6094284
+563,United States,California,San Clemente,92673,15297,33.47249985,-117.5842743
+564,United States,California,San Juan Capistrano,92675,34321,33.52144623,-117.6025543
+565,United States,California,Silverado,92676,1859,33.78234482,-117.6352615
+566,United States,California,Laguna Niguel,92677,62103,33.5290451,-117.7011719
+567,United States,California,Trabuco Canyon,92679,32268,33.63111877,-117.5673447
+568,United States,California,Westminster,92683,88230,33.75259018,-117.99366
+569,United States,California,Rancho Santa Margarita,92688,42193,33.62465286,-117.6117325
+570,United States,California,Mission Viejo,92691,46371,33.61194611,-117.6658707
+571,United States,California,Mission Viejo,92692,46227,33.60692978,-117.6442566
+572,United States,California,Ladera Ranch,92694,350,33.56918716,-117.6400528
+573,United States,California,Santa Ana,92701,58157,33.74847794,-117.8589172
+574,United States,California,Santa Ana,92703,70011,33.74863434,-117.9061279
+575,United States,California,Santa Ana,92704,91188,33.71986771,-117.9070663
+576,United States,California,Santa Ana,92705,44117,33.76600266,-117.7867661
+577,United States,California,Santa Ana,92706,37879,33.76589203,-117.8815308
+578,United States,California,Santa Ana,92707,62634,33.71482849,-117.8729401
+579,United States,California,Fountain Valley,92708,54548,33.71203613,-117.9501114
+580,United States,California,Tustin,92780,55062,33.7358017,-117.8188019
+581,United States,California,Tustin,92782,17494,33.73854446,-117.7850494
+582,United States,California,Anaheim,92801,60553,33.84498215,-117.9521484
+583,United States,California,Anaheim,92802,45086,33.80786514,-117.9237823
+584,United States,California,Anaheim,92804,81333,33.81800079,-117.9744034
+585,United States,California,Anaheim,92805,68802,33.83020782,-117.9060974
+586,United States,California,Anaheim,92806,34398,33.83795929,-117.870491
+587,United States,California,Anaheim,92807,36301,33.84873199,-117.7883606
+588,United States,California,Anaheim,92808,19629,33.85045242,-117.7266693
+589,United States,California,Brea,92821,34055,33.93019867,-117.8628998
+590,United States,California,Brea,92823,1408,33.92414474,-117.793869
+591,United States,California,Fullerton,92831,34592,33.87998199,-117.8954849
+592,United States,California,Fullerton,92832,24502,33.86831665,-117.9290314
+593,United States,California,Fullerton,92833,46105,33.87763977,-117.9612122
+594,United States,California,Fullerton,92835,21157,33.90221024,-117.9149246
+595,United States,California,Garden Grove,92840,50641,33.7871666,-117.9318924
+596,United States,California,Garden Grove,92841,31428,33.78673935,-117.9825668
+597,United States,California,Garden Grove,92843,43491,33.76401901,-117.9315033
+598,United States,California,Garden Grove,92844,23481,33.76647568,-117.9697952
+599,United States,California,Garden Grove,92845,15878,33.78295517,-118.0264587
+600,United States,California,Norco,92860,22443,33.92583466,-117.559639
+601,United States,California,Villa Park,92861,5935,33.81747437,-117.810463
+602,United States,California,Orange,92865,18058,33.82877731,-117.8482971
+603,United States,California,Orange,92866,15396,33.78459549,-117.8445358
+604,United States,California,Orange,92867,40915,33.81858826,-117.8212891
+605,United States,California,Orange,92868,23172,33.78779602,-117.8759308
+606,United States,California,Orange,92869,37916,33.79278946,-117.7897491
+607,United States,California,Placentia,92870,48170,33.88115692,-117.8547821
+608,United States,California,Corona,92879,44875,33.89382172,-117.5314484
+609,United States,California,Corona,92880,16998,33.91804123,-117.6178055
+610,United States,California,Corona,92881,21911,33.83368683,-117.5130615
+611,United States,California,Corona,92882,60294,33.81938553,-117.6002121
+612,United States,California,Corona,92883,13188,33.76235199,-117.4887238
+613,United States,California,Yorba Linda,92886,39458,33.89725113,-117.7922058
+614,United States,California,Yorba Linda,92887,20893,33.88407135,-117.7322006
+615,United States,California,Ventura,93001,32899,34.36026001,-119.3063812
+616,United States,California,Ventura,93003,46894,34.27922058,-119.2214355
+617,United States,California,Ventura,93004,27381,34.27869797,-119.1678009
+618,United States,California,Camarillo,93010,42853,34.22784424,-119.0799026
+619,United States,California,Camarillo,93012,24945,34.20550537,-118.9931107
+620,United States,California,Carpinteria,93013,17409,34.44139862,-119.5131607
+621,United States,California,Fillmore,93015,16013,34.40816116,-118.8651123
+622,United States,California,Moorpark,93021,32984,34.31294632,-118.8581696
+623,United States,California,Oak View,93022,6503,34.40454483,-119.3021164
+624,United States,California,Ojai,93023,21633,34.58130646,-118.9319458
+625,United States,California,Oxnard,93030,79736,34.22324371,-119.1801224
+626,United States,California,Oxnard,93033,77791,34.15662766,-119.117218
+627,United States,California,Oxnard,93035,25322,34.18453979,-119.2246628
+628,United States,California,Piru,93040,1459,34.43284225,-118.7301025
+629,United States,California,Port Hueneme,93041,25634,34.11012268,-119.100975
+630,United States,California,Santa Paula,93060,32511,34.40234375,-119.0948257
+631,United States,California,Simi Valley,93063,49027,34.29681396,-118.6856995
+632,United States,California,Simi Valley,93065,64802,34.26944733,-118.7684708
+633,United States,California,Somis,93066,2966,34.2976265,-119.0146255
+634,United States,California,Summerland,93067,576,34.42099762,-119.6013718
+635,United States,California,Santa Barbara,93101,31727,34.41920471,-119.7100067
+636,United States,California,Santa Barbara,93103,20893,34.43857956,-119.6853714
+637,United States,California,Santa Barbara,93105,25771,34.03734207,-119.8007889
+638,United States,California,Santa Barbara,93108,12741,34.45754242,-119.631073
+639,United States,California,Santa Barbara,93109,10986,34.40625763,-119.7269363
+640,United States,California,Santa Barbara,93110,15757,34.43794632,-119.7719116
+641,United States,California,Santa Barbara,93111,16477,34.46019745,-119.8026047
+642,United States,California,Goleta,93117,49975,34.4899826,-120.0912476
+643,United States,California,Alpaugh,93201,1054,35.86962509,-119.4987717
+644,United States,California,Armona,93202,2872,36.315979,-119.7108536
+645,United States,California,Arvin,93203,16206,35.1163063,-118.8176422
+646,United States,California,Avenal,93204,14697,35.9169426,-120.129921
+647,United States,California,Bodfish,93205,1954,35.52399063,-118.4004288
+648,United States,California,Buttonwillow,93206,2078,35.45140076,-119.4884109
+649,United States,California,California Hot Springs,93207,226,35.86579514,-118.6975937
+650,United States,California,Camp Nelson,93208,191,36.05745697,-118.5919495
+651,United States,California,Coalinga,93210,18036,36.18686676,-120.3877945
+652,United States,California,Corcoran,93212,23506,36.04533005,-119.5324249
+653,United States,California,Delano,93215,37280,35.7722435,-119.2096863
+655,United States,California,Ducor,93218,823,35.84606552,-119.0040741
+656,United States,California,Earlimart,93219,9318,35.85805511,-119.3058548
+657,United States,California,Exeter,93221,13333,36.30168915,-119.0182343
+658,United States,California,Frazier Park,93222,1526,34.90790939,-119.2342834
+659,United States,California,Farmersville,93223,8644,36.29877853,-119.2010269
+660,United States,California,Fellows,93224,626,35.21573257,-119.5701294
+661,United States,California,Frazier Park,93225,4498,34.82766342,-118.9990692
+662,United States,California,Glennville,93226,296,35.73569489,-118.7384796
+663,United States,California,Hanford,93230,53204,36.2922287,-119.622673
+664,United States,California,Huron,93234,6918,36.21786499,-120.0801163
+665,United States,California,Ivanhoe,93235,4517,36.38581848,-119.2242432
+666,United States,California,Kernville,93238,1873,35.85289383,-118.3977814
+667,United States,California,Kettleman City,93239,1809,35.99692154,-120.0009537
+668,United States,California,Lake Isabella,93240,5564,35.60787582,-118.4663162
+669,United States,California,Lamont,93241,15364,35.24503326,-118.9055557
+670,United States,California,Laton,93242,2900,36.44423294,-119.7182846
+671,United States,California,Lebec,93243,1247,34.84585953,-118.8851624
+672,United States,California,Lemon Cove,93244,293,36.46266937,-118.9972916
+673,United States,California,Lemoore,93245,30419,36.30366516,-119.8256607
+674,United States,California,Lindsay,93247,15508,36.20546341,-119.0858078
+675,United States,California,Lost Hills,93249,2502,35.63771439,-119.8930664
+676,United States,California,Mc Farland,93250,10781,35.66688538,-119.1867142
+677,United States,California,Mc Kittrick,93251,302,35.38380814,-119.7308884
+679,United States,California,New Cuyama,93254,798,34.9565773,-119.750145
+681,United States,California,Pixley,93256,4198,35.95701981,-119.330925
+682,United States,California,Porterville,93257,65566,36.00895691,-118.8915939
+683,United States,California,Posey,93260,266,35.86192703,-118.6366959
+684,United States,California,Richgrove,93261,2956,35.80992126,-119.1274338
+685,United States,California,Sequoia National Park,93262,56,36.52724457,-118.5949402
+686,United States,California,Shafter,93263,15177,35.49070358,-119.2868347
+687,United States,California,Springville,93265,3546,36.2459259,-118.6931381
+688,United States,California,Stratford,93266,1729,36.17525482,-119.8138046
+689,United States,California,Strathmore,93267,5689,36.14131927,-119.1290741
+690,United States,California,Taft,93268,14937,35.18483734,-119.4025269
+691,United States,California,Terra Bella,93270,5868,35.93906784,-119.043663
+692,United States,California,Three Rivers,93271,2318,36.41343307,-118.8547058
+694,United States,California,Tulare,93274,56101,36.18547058,-119.3752441
+695,United States,California,Tupman,93276,236,35.31626129,-119.4025574
+696,United States,California,Visalia,93277,44741,36.30379486,-119.3756485
+697,United States,California,Wasco,93280,22760,35.65224075,-119.4464035
+699,United States,California,Weldon,93283,1935,35.55646896,-118.2449112
+700,United States,California,Wofford Heights,93285,2515,35.6905365,-118.5527878
+701,United States,California,Woodlake,93286,8870,36.46463394,-119.0943451
+702,United States,California,Woody,93287,88,35.71024323,-118.8816757
+703,United States,California,Visalia,93291,36718,36.39177704,-119.3728409
+704,United States,California,Visalia,93292,30395,36.37559128,-119.2116928
+705,United States,California,Bakersfield,93301,12963,35.38393784,-119.0204315
+706,United States,California,Bakersfield,93304,44588,35.33979416,-119.0235519
+707,United States,California,Bakersfield,93305,35643,35.39173126,-118.984108
+708,United States,California,Bakersfield,93306,53481,35.44988251,-118.8414383
+709,United States,California,Bakersfield,93307,59195,35.28011322,-118.962326
+710,United States,California,Bakersfield,93308,44915,35.55961609,-118.9251862
+711,United States,California,Bakersfield,93309,58632,35.34289169,-119.0648041
+712,United States,California,Bakersfield,93311,20440,35.16207123,-119.1944885
+713,United States,California,Bakersfield,93312,40836,35.3925972,-119.2453384
+714,United States,California,Bakersfield,93313,25126,35.14093781,-119.0513458
+715,United States,California,San Luis Obispo,93401,27047,35.23374557,-120.626442
+716,United States,California,Los Osos,93402,14859,35.27998352,-120.8242874
+717,United States,California,San Luis Obispo,93405,31982,35.23654938,-120.7273407
+718,United States,California,Arroyo Grande,93420,24499,35.1762352,-120.4832458
+719,United States,California,Atascadero,93422,29539,35.45391083,-120.6946106
+720,United States,California,Avila Beach,93424,812,35.18664551,-120.728302
+721,United States,California,Bradley,93426,1363,35.84288788,-121.0048599
+722,United States,California,Buellton,93427,4644,34.63136292,-120.2382202
+723,United States,California,Cambria,93428,6526,35.5913887,-121.0322571
+724,United States,California,Casmalia,93429,210,34.86603165,-120.5365448
+725,United States,California,Cayucos,93430,3220,35.51183319,-120.9187164
+726,United States,California,Creston,93432,1203,35.480896,-120.4694748
+727,United States,California,Grover Beach,93433,13106,35.12083435,-120.6184311
+728,United States,California,Guadalupe,93434,5726,34.93600082,-120.5946579
+730,United States,California,Lompoc,93436,51737,34.60105515,-120.3829193
+731,United States,California,Lompoc,93437,6165,34.75747681,-120.5505066
+732,United States,California,Los Alamos,93440,1328,34.75869751,-120.2758408
+733,United States,California,Los Olivos,93441,1317,34.70434189,-120.0260925
+734,United States,California,Morro Bay,93442,10909,35.36955261,-120.7638626
+735,United States,California,Nipomo,93444,15405,35.05034637,-120.4896011
+736,United States,California,Oceano,93445,7435,35.0596962,-120.604744
+737,United States,California,Paso Robles,93446,35586,35.63422012,-120.7283401
+739,United States,California,Pismo Beach,93449,8564,35.16566849,-120.6558456
+740,United States,California,San Ardo,93450,670,35.99600983,-120.8530502
+741,United States,California,San Miguel,93451,2666,35.88676834,-120.6086578
+742,United States,California,San Simeon,93452,471,35.74648285,-121.2233582
+743,United States,California,Santa Margarita,93453,2687,35.30392456,-120.2565689
+744,United States,California,Santa Maria,93454,30540,34.94352341,-120.2567291
+745,United States,California,Santa Maria,93455,37364,34.81822586,-120.4187851
+746,United States,California,Santa Maria,93458,43684,34.95933914,-120.4900818
+747,United States,California,Santa Ynez,93460,5710,34.63035583,-120.0325623
+748,United States,California,Shandon,93461,1255,35.63448715,-120.2935333
+749,United States,California,Solvang,93463,7958,34.62439728,-120.1378784
+750,United States,California,Templeton,93465,7918,35.53611374,-120.7392273
+751,United States,California,Mojave,93501,4882,35.09732437,-118.1712875
+752,United States,California,California City,93505,8316,35.15148926,-117.927597
+753,United States,California,Acton,93510,7831,34.5014534,-118.2078629
+754,United States,California,Benton,93512,340,37.65394592,-118.2314453
+755,United States,California,Big Pine,93513,1826,37.24550629,-118.0629425
+756,United States,California,Bishop,93514,13309,37.04584122,-118.3972397
+757,United States,California,Boron,93516,2241,34.95703125,-117.7304535
+758,United States,California,Bridgeport,93517,826,38.18458176,-119.2865601
+759,United States,California,Caliente,93518,1022,35.35895157,-118.5270615
+760,United States,California,Darwin,93522,64,36.31917953,-117.5930557
+761,United States,California,Edwards,93523,7685,34.9667778,-117.9611816
+762,United States,California,Independence,93526,734,36.86958313,-118.1892395
+764,United States,California,Johannesburg,93528,207,35.36333847,-117.6376419
+765,United States,California,June Lake,93529,618,37.73027039,-119.0558167
+766,United States,California,Keeler,93530,71,36.56049728,-117.9624634
+767,United States,California,Keene,93531,1436,35.21498108,-118.5904922
+768,United States,California,Lake Hughes,93532,2771,34.65958023,-118.5842133
+769,United States,California,Lancaster,93534,35109,34.72752762,-118.1530991
+770,United States,California,Lancaster,93535,57794,34.71270752,-117.8896561
+771,United States,California,Lancaster,93536,49309,34.74140549,-118.3811111
+772,United States,California,Lee Vining,93541,504,37.89014435,-119.1840897
+773,United States,California,Littlerock,93543,11198,34.50527191,-117.9550552
+774,United States,California,Llano,93544,1220,34.50009155,-117.7658615
+776,United States,California,Mammoth Lakes,93546,8217,37.55007553,-118.8371658
+777,United States,California,Olancha,93549,318,36.29685211,-117.8654709
+778,United States,California,Palmdale,93550,67232,34.53623199,-118.0829315
+779,United States,California,Palmdale,93551,34045,34.6134758,-118.2563553
+780,United States,California,Palmdale,93552,25370,34.55771255,-118.0294418
+781,United States,California,Pearblossom,93553,1613,34.44524002,-117.8948669
+782,United States,California,Randsburg,93554,117,35.40572357,-117.7733536
+784,United States,California,Rosamond,93560,14931,34.90305328,-118.4112473
+785,United States,California,Tehachapi,93561,25805,35.07377625,-118.6521149
+787,United States,California,Valyermo,93563,413,34.39582825,-117.7345657
+788,United States,California,Palmdale,93591,6787,34.59822083,-117.795929
+789,United States,California,Ahwahnee,93601,1968,37.37581635,-119.7399368
+790,United States,California,Auberry,93602,3464,36.99176025,-119.2428741
+791,United States,California,Badger,93603,273,36.64545059,-118.9249802
+792,United States,California,Bass Lake,93604,613,37.45836639,-119.3450089
+793,United States,California,Big Creek,93605,273,37.17277145,-119.2996979
+794,United States,California,Biola,93606,807,36.79888153,-120.0195084
+795,United States,California,Cantua Creek,93608,1766,36.48805618,-120.407692
+796,United States,California,Caruthers,93609,5446,36.52759933,-119.8659973
+797,United States,California,Chowchilla,93610,19391,37.10094833,-120.270134
+798,United States,California,Clovis,93611,46858,36.91765213,-119.5937576
+799,United States,California,Clovis,93612,33856,36.81454086,-119.7118683
+800,United States,California,Coarsegold,93614,9395,37.21219254,-119.749321
+801,United States,California,Cutler,93615,5519,36.49789429,-119.2854843
+802,United States,California,Del Rey,93616,1965,36.65746307,-119.5952911
+803,United States,California,Dinuba,93618,24206,36.52362061,-119.3868713
+804,United States,California,Dos Palos,93620,9388,37.04572678,-120.6306839
+805,United States,California,Dunlap,93621,506,36.78921127,-119.1403351
+806,United States,California,Firebaugh,93622,9491,36.78561783,-120.6253815
+807,United States,California,Fish Camp,93623,77,37.48353577,-119.6794128
+808,United States,California,Five Points,93624,1852,36.39774323,-120.1199112
+809,United States,California,Fowler,93625,5635,36.62579346,-119.6724854
+810,United States,California,Friant,93626,1125,37.02766418,-119.6905594
+811,United States,California,Helm,93627,152,36.52053833,-120.1180573
+812,United States,California,Hume,93628,93,36.8075943,-118.9015427
+813,United States,California,Kerman,93630,14062,36.72741699,-120.1235275
+814,United States,California,Kingsburg,93631,14088,36.47823715,-119.5213699
+815,United States,California,Lakeshore,93634,52,37.29060745,-119.2163315
+816,United States,California,Los Banos,93635,29124,36.99516296,-120.955101
+817,United States,California,Madera,93637,28434,36.9029541,-120.1942749
+818,United States,California,Madera,93638,49247,37.00406647,-119.9300232
+820,United States,California,Miramonte,93641,571,36.69675827,-119.0240479
+821,United States,California,North Fork,93643,3376,37.24430847,-119.470253
+822,United States,California,Oakhurst,93644,8521,37.64864731,-119.2314453
+823,United States,California,O Neals,93645,173,37.14010239,-119.6570892
+824,United States,California,Orange Cove,93646,8449,36.63349915,-119.2988968
+825,United States,California,Orosi,93647,9780,36.60018539,-119.1756516
+826,United States,California,Parlier,93648,12587,36.62223816,-119.5211258
+827,United States,California,Fresno,93650,3258,36.84165573,-119.7971115
+828,United States,California,Prather,93651,1314,37.00723648,-119.505661
+829,United States,California,Raisin City,93652,265,36.59454346,-119.9052429
+830,United States,California,Raymond,93653,972,37.25205612,-119.9578323
+831,United States,California,Reedley,93654,25923,36.63663864,-119.4218445
+832,United States,California,Riverdale,93656,5729,36.45220947,-119.9457474
+833,United States,California,Sanger,93657,28991,36.81962967,-119.4404144
+834,United States,California,San Joaquin,93660,4318,36.60019302,-120.1533966
+835,United States,California,Selma,93662,26213,36.54532242,-119.6422806
+836,United States,California,Shaver Lake,93664,642,37.22299957,-119.0010223
+837,United States,California,South Dos Palos,93665,343,36.95973206,-120.6535187
+838,United States,California,Sultana,93666,306,36.54535294,-119.3385315
+839,United States,California,Tollhouse,93667,2633,36.9936676,-119.3482666
+840,United States,California,Tranquillity,93668,1130,36.63566208,-120.2886429
+841,United States,California,Wishon,93669,327,37.28775787,-119.5481567
+842,United States,California,Traver,93673,646,36.45609283,-119.4862213
+843,United States,California,Squaw Valley,93675,3146,36.7191391,-119.2026749
+844,United States,California,Fresno,93701,13858,36.74940491,-119.7875748
+845,United States,California,Fresno,93702,47999,36.7393837,-119.7536469
+846,United States,California,Fresno,93703,31180,36.76877213,-119.7626343
+847,United States,California,Fresno,93704,26580,36.79964828,-119.8012466
+848,United States,California,Fresno,93705,35451,36.78723907,-119.8278122
+849,United States,California,Fresno,93706,35790,36.65461349,-119.9036713
+850,United States,California,Fresno,93710,29337,36.82271576,-119.7618256
+851,United States,California,Fresno,93711,36274,36.83300018,-119.8294678
+852,United States,California,Fresno,93720,45087,36.87870789,-119.7645035
+853,United States,California,Fresno,93721,6848,36.73269272,-119.783783
+854,United States,California,Fresno,93722,60889,36.78979111,-119.9298935
+855,United States,California,Fresno,93725,21010,36.62363052,-119.7413254
+856,United States,California,Fresno,93726,39148,36.79360199,-119.7611313
+857,United States,California,Fresno,93727,54701,36.75148773,-119.6807175
+858,United States,California,Fresno,93728,16346,36.75734329,-119.8182755
+859,United States,California,Salinas,93901,35739,36.64152145,-121.6221848
+860,United States,California,Salinas,93905,58548,36.66779327,-121.6013031
+861,United States,California,Salinas,93906,53946,36.72289658,-121.6336517
+862,United States,California,Salinas,93907,22292,36.77462006,-121.664711
+863,United States,California,Salinas,93908,13027,36.62433624,-121.6156693
+865,United States,California,Carmel By The Sea,93921,2966,36.55461884,-121.9222412
+866,United States,California,Carmel,93923,13121,36.46060944,-121.8525085
+867,United States,California,Carmel Valley,93924,6691,36.41461182,-121.6386032
+868,United States,California,Chualar,93925,1140,36.59627151,-121.442276
+869,United States,California,Gonzales,93926,9023,36.52587891,-121.3967209
+870,United States,California,Greenfield,93927,14204,36.24870682,-121.3866196
+871,United States,California,Jolon,93928,254,35.93078232,-121.1897583
+872,United States,California,King City,93930,14477,36.22076035,-120.9807739
+873,United States,California,Lockwood,93932,538,35.98979187,-121.0559311
+874,United States,California,Marina,93933,21759,36.68958282,-121.7584
+875,United States,California,Monterey,93940,32857,36.36273956,-121.8696823
+876,United States,California,Pacific Grove,93950,15449,36.61833572,-121.9264145
+877,United States,California,Pebble Beach,93953,4602,36.58749771,-121.9448166
+878,United States,California,San Lucas,93954,521,36.12553024,-120.8644409
+879,United States,California,Seaside,93955,38244,36.62511444,-121.8235626
+880,United States,California,Soledad,93960,13003,36.41421509,-121.3605957
+881,United States,California,Spreckels,93962,407,36.62464142,-121.6471939
+882,United States,California,Belmont,94002,25566,37.50936508,-122.3061295
+883,United States,California,Brisbane,94005,3635,37.68469238,-122.4071198
+884,United States,California,Burlingame,94010,40346,37.57027817,-122.3657761
+885,United States,California,Daly City,94014,47453,37.69156265,-122.4452057
+886,United States,California,Daly City,94015,63337,37.68084335,-122.481308
+887,United States,California,Half Moon Bay,94019,17929,37.4556694,-122.4079895
+888,United States,California,La Honda,94020,1622,37.28567886,-122.2241669
+889,United States,California,Loma Mar,94021,148,37.26638794,-122.2630768
+890,United States,California,Los Altos,94022,18486,37.34954453,-122.1343536
+891,United States,California,Los Altos,94024,21496,37.3529129,-122.0930023
+892,United States,California,Menlo Park,94025,39062,37.44955063,-122.1837616
+893,United States,California,Atherton,94027,6876,37.45492554,-122.2031708
+894,United States,California,Portola Valley,94028,6601,37.36970901,-122.2158432
+895,United States,California,Millbrae,94030,20350,37.60124969,-122.4030991
+896,United States,California,Montara,94037,2346,37.54058075,-122.5095978
+897,United States,California,Moss Beach,94038,3064,37.51555634,-122.5023117
+898,United States,California,Mountain View,94040,32143,37.38066101,-122.0860214
+899,United States,California,Mountain View,94041,13483,37.38834763,-122.0753021
+900,United States,California,Mountain View,94043,27822,37.41972351,-122.0629501
+901,United States,California,Pacifica,94044,38885,37.57363129,-122.4551697
+902,United States,California,Pescadero,94060,2055,37.22565079,-122.2975311
+903,United States,California,Redwood City,94061,35737,37.46125031,-122.2354126
+904,United States,California,Redwood City,94062,25569,37.41056824,-122.2971497
+905,United States,California,Redwood City,94063,32368,37.49941254,-122.1963196
+906,United States,California,Redwood City,94065,10658,37.52749634,-122.2309418
+907,United States,California,San Bruno,94066,39566,37.62443542,-122.4306641
+908,United States,California,San Carlos,94070,28098,37.49791336,-122.2673645
+909,United States,California,San Gregorio,94074,291,37.33176041,-122.3414459
+910,United States,California,South San Francisco,94080,60599,37.6544342,-122.4264679
+911,United States,California,Sunnyvale,94086,64010,37.37854004,-122.0204544
+912,United States,California,Sunnyvale,94087,50070,37.35110092,-122.0373077
+913,United States,California,Sunnyvale,94089,16985,37.42163467,-122.009613
+914,United States,California,San Francisco,94102,28998,37.77949905,-122.4192352
+915,United States,California,San Francisco,94103,23036,37.77314758,-122.4112854
+916,United States,California,San Francisco,94104,384,37.79122162,-122.4022446
+917,United States,California,San Francisco,94105,2066,37.78916931,-122.3950119
+918,United States,California,San Francisco,94107,17372,37.76888275,-122.3955231
+919,United States,California,San Francisco,94108,13723,37.79199982,-122.4086533
+920,United States,California,San Francisco,94109,56330,37.794487,-122.4222717
+921,United States,California,San Francisco,94110,74641,37.75002289,-122.4151993
+922,United States,California,San Francisco,94111,3337,37.80177689,-122.4022903
+923,United States,California,San Francisco,94112,73117,37.72049713,-122.4431152
+924,United States,California,San Francisco,94114,30587,37.75808334,-122.4347992
+925,United States,California,San Francisco,94115,33122,37.78602982,-122.4373016
+926,United States,California,San Francisco,94116,42959,37.74441147,-122.486763
+927,United States,California,San Francisco,94117,38756,37.77053452,-122.4451218
+928,United States,California,San Francisco,94118,38955,37.78130341,-122.461525
+929,United States,California,San Francisco,94121,42476,37.77671814,-122.4957809
+930,United States,California,San Francisco,94122,55504,37.76041031,-122.4849625
+931,United States,California,San Francisco,94123,22920,37.80025482,-122.4369736
+932,United States,California,San Francisco,94124,33177,37.73150635,-122.3845291
+933,United States,California,San Francisco,94127,20643,37.73653412,-122.4573212
+934,United States,California,San Francisco,94129,2240,37.79752731,-122.4645309
+935,United States,California,San Francisco,94130,1458,37.82089233,-122.3697281
+936,United States,California,San Francisco,94131,27906,37.74670029,-122.4428329
+937,United States,California,San Francisco,94132,26297,37.72230148,-122.491127
+938,United States,California,San Francisco,94133,26831,37.80207062,-122.4110031
+939,United States,California,San Francisco,94134,40137,37.72105026,-122.4135742
+940,United States,California,Palo Alto,94301,16198,37.44431305,-122.1499939
+941,United States,California,Palo Alto,94303,45499,37.45809174,-122.1153946
+942,United States,California,Palo Alto,94304,1723,37.38697815,-122.1777496
+943,United States,California,Stanford,94305,13386,37.42434311,-122.1656418
+944,United States,California,Palo Alto,94306,24492,37.41616058,-122.13134
+945,United States,California,San Mateo,94401,32488,37.59041977,-122.3064651
+946,United States,California,San Mateo,94402,23393,37.556633,-122.3177261
+947,United States,California,San Mateo,94403,37926,37.53830719,-122.3051071
+948,United States,California,San Mateo,94404,31882,37.55609512,-122.272438
+949,United States,California,Alameda,94501,58555,37.7746315,-122.274437
+950,United States,California,Alameda,94502,13996,37.72481537,-122.2243652
+951,United States,California,Danville,94506,19777,37.79148102,-121.9032516
+952,United States,California,Alamo,94507,15187,37.85571671,-121.994812
+953,United States,California,Angwin,94508,3641,38.54244614,-122.4199219
+954,United States,California,Antioch,94509,90891,37.98005676,-121.8015976
+955,United States,California,Benicia,94510,25578,38.11353302,-122.1192627
+956,United States,California,Bethel Island,94511,2379,38.05055618,-121.6469269
+957,United States,California,Birds Landing,94512,138,38.14072037,-121.838295
+958,United States,California,Brentwood,94513,26577,37.90824127,-121.6824722
+959,United States,California,Byron,94514,10153,37.83322906,-121.6014633
+960,United States,California,Calistoga,94515,7384,38.6296196,-122.5932159
+961,United States,California,Clayton,94517,14239,37.88184357,-121.848114
+962,United States,California,Concord,94518,27394,37.95024872,-122.0224533
+963,United States,California,Concord,94519,18650,37.99011612,-122.0121918
+964,United States,California,Concord,94520,36186,38.01382446,-122.0391464
+965,United States,California,Concord,94521,39888,37.97142029,-121.9715042
+966,United States,California,Pleasant Hill,94523,32685,37.95338058,-122.076889
+967,United States,California,Crockett,94525,3193,38.04929352,-122.2284164
+968,United States,California,Danville,94526,32873,37.81546021,-121.9772034
+969,United States,California,El Cerrito,94530,23141,37.92483902,-122.2891464
+970,United States,California,Fairfield,94533,77683,38.28713608,-122.0271072
+971,United States,California,Travis Afb,94535,9978,38.26589966,-121.9394608
+972,United States,California,Fremont,94536,66543,37.57227325,-121.9645844
+973,United States,California,Fremont,94538,56126,37.50576782,-121.962471
+974,United States,California,Fremont,94539,46917,37.5167923,-121.8991165
+975,United States,California,Hayward,94541,60274,37.6740036,-122.0767975
+976,United States,California,Hayward,94542,11147,37.65669632,-122.0483627
+977,United States,California,Hayward,94544,72993,37.63921356,-122.0375519
+978,United States,California,Hayward,94545,27311,37.62984085,-122.120842
+979,United States,California,Castro Valley,94546,41698,37.70832825,-122.0834732
+980,United States,California,Hercules,94547,22479,37.99126053,-122.2149429
+981,United States,California,Lafayette,94549,23996,37.90777588,-122.1271591
+982,United States,California,Livermore,94550,75929,37.57174683,-121.6595612
+983,United States,California,Castro Valley,94552,13212,37.72272873,-122.0215683
+984,United States,California,Martinez,94553,46677,38.0144577,-122.1154327
+985,United States,California,Fremont,94555,33883,37.55547333,-122.0803146
+986,United States,California,Moraga,94556,16510,37.82794571,-122.1071854
+987,United States,California,Napa,94558,63947,38.48978806,-122.2701111
+988,United States,California,Napa,94559,26894,38.23238754,-122.3249435
+989,United States,California,Newark,94560,42491,37.50413132,-122.0323486
+990,United States,California,Oakley,94561,27607,37.99940491,-121.6862411
+991,United States,California,Orinda,94563,17964,37.87391663,-122.2052231
+992,United States,California,Pinole,94564,16717,37.99646378,-122.2937164
+993,United States,California,Pittsburg,94565,78816,38.0060463,-121.916832
+994,United States,California,Pleasanton,94566,36669,37.63336182,-121.8623962
+995,United States,California,Pope Valley,94567,494,38.6727066,-122.4032211
+996,United States,California,Dublin,94568,29636,37.71392441,-121.9284286
+997,United States,California,Port Costa,94569,173,38.03570557,-122.1968231
+998,United States,California,Rio Vista,94571,5246,38.14886093,-121.7376938
+999,United States,California,Rodeo,94572,8506,38.02721786,-122.2346268
+1000,United States,California,Saint Helena,94574,9423,38.58135223,-122.2962799
+1001,United States,California,Deer Park,94576,223,38.55438232,-122.4747696
+1002,United States,California,San Leandro,94577,41871,37.71719742,-122.1593399
+1003,United States,California,San Leandro,94578,36568,37.70438385,-122.1267014
+1004,United States,California,San Leandro,94579,19815,37.68726349,-122.15728
+1005,United States,California,San Lorenzo,94580,26240,37.67625046,-122.1324158
+1006,United States,California,San Ramon,94583,44078,37.76655579,-121.9767838
+1007,United States,California,Suisun City,94585,39279,38.19790649,-122.0172577
+1008,United States,California,Sunol,94586,790,37.5874939,-121.862854
+1009,United States,California,Union City,94587,66472,37.59484863,-122.0515213
+1010,United States,California,Pleasanton,94588,28568,37.68505096,-121.9120636
+1011,United States,California,Vallejo,94589,42209,38.16131973,-122.2715912
+1012,United States,California,Vallejo,94590,37218,38.10470581,-122.2473907
+1013,United States,California,Vallejo,94591,51665,38.10573196,-122.1863403
+1014,United States,California,Vallejo,94592,159,38.09370041,-122.2765884
+1015,United States,California,Walnut Creek,94595,18024,37.86212921,-122.0751953
+1016,United States,California,Walnut Creek,94596,40917,37.90066147,-122.0527802
+1017,United States,California,Walnut Creek,94598,26022,37.91664886,-122.0084839
+1018,United States,California,Yountville,94599,2873,38.4214592,-122.3650513
+1019,United States,California,Oakland,94601,54876,37.77652359,-122.2192688
+1020,United States,California,Oakland,94602,28900,37.8038826,-122.2084198
+1021,United States,California,Oakland,94603,31392,37.73911285,-122.1756058
+1022,United States,California,Oakland,94605,42854,37.75801849,-122.1386795
+1023,United States,California,Oakland,94606,41876,37.7924881,-122.2443161
+1024,United States,California,Oakland,94607,21054,37.80707169,-122.2974014
+1025,United States,California,Emeryville,94608,24589,37.8372612,-122.2876511
+1026,United States,California,Oakland,94609,21097,37.83433914,-122.2643738
+1027,United States,California,Oakland,94610,29964,37.80873108,-122.2387085
+1028,United States,California,Oakland,94611,36517,37.82841492,-122.2160034
+1029,United States,California,Oakland,94612,11702,37.80901337,-122.2697372
+1030,United States,California,Oakland,94618,15438,37.84550858,-122.2351837
+1031,United States,California,Oakland,94619,24518,37.78718567,-122.1463318
+1032,United States,California,Oakland,94621,30751,37.75055313,-122.1971741
+1033,United States,California,Berkeley,94702,15638,37.86600876,-122.2862244
+1034,United States,California,Berkeley,94703,19763,37.86384201,-122.2756805
+1035,United States,California,Berkeley,94704,21205,37.87141418,-122.2465973
+1036,United States,California,Berkeley,94705,12448,37.85889816,-122.240509
+1037,United States,California,Albany,94706,15882,37.89027405,-122.2951889
+1038,United States,California,Berkeley,94707,11889,37.89775467,-122.2793884
+1039,United States,California,Berkeley,94708,10737,37.89774323,-122.2631226
+1040,United States,California,Berkeley,94709,10147,37.8785553,-122.2660904
+1041,United States,California,Berkeley,94710,8157,37.87290192,-122.3037109
+1042,United States,California,Richmond,94801,28450,37.94528961,-122.3839417
+1043,United States,California,El Sobrante,94803,25399,37.96399689,-122.2882996
+1044,United States,California,Richmond,94804,39089,37.92103577,-122.3417969
+1045,United States,California,Richmond,94805,13984,37.94145584,-122.3209686
+1046,United States,California,San Pablo,94806,55720,37.98027039,-122.3426361
+1047,United States,California,San Rafael,94901,40239,37.97266388,-122.4914551
+1048,United States,California,San Rafael,94903,28403,38.01806641,-122.5460205
+1049,United States,California,Greenbrae,94904,12010,37.94661713,-122.5635681
+1050,United States,California,Belvedere Tiburon,94920,13065,37.88562775,-122.4685822
+1051,United States,California,Bodega,94922,584,38.34328079,-122.975502
+1052,United States,California,Bodega Bay,94923,1785,38.37716675,-123.0379562
+1053,United States,California,Bolinas,94924,1573,37.94308853,-122.723793
+1054,United States,California,Corte Madera,94925,9038,37.92401505,-122.5116959
+1055,United States,California,Rohnert Park,94928,42544,38.34719086,-122.6978226
+1056,United States,California,Dillon Beach,94929,330,38.24457932,-122.9562683
+1057,United States,California,Fairfax,94930,8486,37.97175217,-122.6118698
+1058,United States,California,Cotati,94931,7936,38.32621384,-122.7187424
+1059,United States,California,Forest Knolls,94933,1025,38.01009369,-122.6894455
+1060,United States,California,Inverness,94937,1004,38.09932327,-122.9457245
+1061,United States,California,Lagunitas,94938,821,38.02177048,-122.6917419
+1062,United States,California,Larkspur,94939,6773,37.93708038,-122.5323715
+1063,United States,California,Marshall,94940,406,38.12930679,-122.834816
+1064,United States,California,Mill Valley,94941,28727,37.901371,-122.5720215
+1065,United States,California,Novato,94945,16429,38.13589859,-122.5636826
+1066,United States,California,Nicasio,94946,607,38.06535721,-122.6655655
+1067,United States,California,Novato,94947,24741,38.11216736,-122.6343842
+1068,United States,California,Novato,94949,13361,38.06720352,-122.5240021
+1069,United States,California,Olema,94950,248,38.05220795,-122.7755661
+1070,United States,California,Penngrove,94951,3777,38.32559967,-122.6423492
+1071,United States,California,Petaluma,94952,31930,38.23701859,-122.778717
+1072,United States,California,Petaluma,94954,35419,38.23501968,-122.5573349
+1073,United States,California,Point Reyes Station,94956,1885,38.06026459,-122.8306427
+1074,United States,California,San Anselmo,94960,16849,37.99272156,-122.5750275
+1075,United States,California,San Geronimo,94963,548,38.00474167,-122.6637192
+1076,United States,California,San Quentin,94964,6448,37.94255066,-122.4916458
+1077,United States,California,Sausalito,94965,11213,37.84864044,-122.5156937
+1078,United States,California,Stinson Beach,94970,781,37.92113876,-122.6575623
+1079,United States,California,Tomales,94971,384,38.24076843,-122.9010391
+1080,United States,California,Valley Ford,94972,66,38.33999634,-122.9350586
+1081,United States,California,Woodacre,94973,1449,38.0058403,-122.6381531
+1082,United States,California,Alviso,95002,2147,37.44953537,-121.994812
+1083,United States,California,Aptos,95003,24227,37.0134697,-121.8778763
+1084,United States,California,Aromas,95004,3373,36.87836456,-121.6297836
+1085,United States,California,Ben Lomond,95005,6407,37.07887268,-122.0903854
+1086,United States,California,Boulder Creek,95006,10520,37.17172623,-122.1429596
+1087,United States,California,Brookdale,95007,1007,37.10690308,-122.1000061
+1088,United States,California,Campbell,95008,44976,37.27968979,-121.954567
+1089,United States,California,Capitola,95010,9673,36.97702408,-121.9528656
+1090,United States,California,Castroville,95012,8582,36.78448105,-121.7590561
+1091,United States,California,Cupertino,95014,54431,37.30661011,-122.0806198
+1092,United States,California,Davenport,95017,857,37.11433411,-122.2371597
+1093,United States,California,Felton,95018,8728,37.08911133,-122.0622101
+1094,United States,California,Freedom,95019,4753,36.93622971,-121.7855606
+1095,United States,California,Gilroy,95020,49968,37.03889084,-121.5289536
+1097,United States,California,Los Gatos,95030,13290,37.22284317,-121.9887238
+1098,United States,California,Los Gatos,95032,24443,37.23303223,-121.9474258
+1099,United States,California,Los Gatos,95033,10172,37.1601944,-121.94561
+1100,United States,California,Milpitas,95035,62848,37.44193268,-121.8785019
+1101,United States,California,Morgan Hill,95037,41707,37.1615448,-121.6493683
+1102,United States,California,Moss Landing,95039,899,36.86330414,-121.7816315
+1103,United States,California,Mount Hermon,95041,77,37.05116653,-122.0561905
+1104,United States,California,Paicines,95043,813,36.52570343,-120.9521255
+1105,United States,California,San Juan Bautista,95045,3402,36.81056976,-121.5030212
+1106,United States,California,San Martin,95046,5671,37.08469772,-121.6064148
+1107,United States,California,Santa Clara,95050,36349,37.35121536,-121.9524155
+1108,United States,California,Santa Clara,95051,52986,37.34812927,-121.9846878
+1109,United States,California,Santa Clara,95054,13031,37.39355469,-121.9651108
+1110,United States,California,Santa Cruz,95060,43192,36.99345016,-122.0988617
+1111,United States,California,Santa Cruz,95062,36631,36.97457504,-121.9911499
+1112,United States,California,Santa Cruz,95064,4563,37.00788116,-122.0659714
+1113,United States,California,Santa Cruz,95065,8365,37.03140259,-121.9818649
+1114,United States,California,Scotts Valley,95066,14574,37.07017517,-122.0100784
+1115,United States,California,Saratoga,95070,30589,37.25777054,-122.0518265
+1116,United States,California,Soquel,95073,9823,37.0236702,-121.9464645
+1117,United States,California,Watsonville,95076,81141,36.93165588,-121.7523804
+1118,United States,California,San Jose,95110,18197,37.34666824,-121.9100189
+1119,United States,California,San Jose,95111,57748,37.28426361,-121.8276749
+1120,United States,California,San Jose,95112,52334,37.34382629,-121.8831177
+1121,United States,California,San Jose,95113,561,37.33385086,-121.8911438
+1122,United States,California,San Jose,95116,51706,37.35028458,-121.8528519
+1123,United States,California,San Jose,95117,29914,37.31108856,-121.9617844
+1124,United States,California,San Jose,95118,31926,37.25547791,-121.8898392
+1125,United States,California,San Jose,95119,10155,37.23322678,-121.7880936
+1126,United States,California,San Jose,95120,37090,37.18614197,-121.8435516
+1127,United States,California,San Jose,95121,37127,37.30467987,-121.8099518
+1128,United States,California,San Jose,95122,59841,37.32886124,-121.8345642
+1129,United States,California,San Jose,95123,59632,37.23875809,-121.8283768
+1130,United States,California,San Jose,95124,45257,37.25706482,-121.9230347
+1131,United States,California,San Jose,95125,46185,37.29492569,-121.8947601
+1132,United States,California,San Jose,95126,27023,37.32706833,-121.9168167
+1133,United States,California,San Jose,95127,60620,37.3751564,-121.7958679
+1134,United States,California,San Jose,95128,32804,37.31614685,-121.9362869
+1135,United States,California,San Jose,95129,37570,37.3056221,-122.000885
+1136,United States,California,San Jose,95130,13481,37.27759171,-121.9864807
+1137,United States,California,San Jose,95131,26389,37.38702774,-121.8977737
+1138,United States,California,San Jose,95132,40568,37.42465591,-121.7484131
+1139,United States,California,San Jose,95133,26032,37.3718605,-121.8603516
+1140,United States,California,San Jose,95134,9657,37.42765045,-121.9454193
+1141,United States,California,San Jose,95135,15798,37.28681946,-121.723877
+1142,United States,California,San Jose,95136,36944,37.27093887,-121.8510437
+1143,United States,California,San Jose,95138,14792,37.24606323,-121.7494965
+1144,United States,California,San Jose,95139,7023,37.21870422,-121.7624283
+1145,United States,California,Mount Hamilton,95140,38,37.38290787,-121.6341476
+1146,United States,California,San Jose,95148,44103,37.33953476,-121.7771759
+1147,United States,California,Stockton,95202,7071,37.95970535,-121.2876663
+1148,United States,California,Stockton,95203,16357,37.95409012,-121.3297577
+1149,United States,California,Stockton,95204,30476,37.97449875,-121.3195648
+1150,United States,California,Stockton,95205,34138,37.96569443,-121.2600479
+1151,United States,California,Stockton,95206,49657,37.90242386,-121.4400253
+1152,United States,California,Stockton,95207,49965,38.00212479,-121.3249817
+1153,United States,California,Stockton,95209,30814,38.04452133,-121.3480453
+1154,United States,California,Stockton,95210,40611,38.03321838,-121.2974319
+1155,United States,California,Stockton,95212,6951,38.04945755,-121.2165298
+1156,United States,California,Stockton,95215,23789,37.94628143,-121.1394958
+1157,United States,California,Stockton,95219,19109,38.02972794,-121.3880005
+1158,United States,California,Acampo,95220,6317,38.20022964,-121.2350311
+1160,United States,California,Angels Camp,95222,4264,38.07132721,-120.6322174
+1161,United States,California,Arnold,95223,5159,38.32152939,-120.2363586
+1162,United States,California,Avery,95224,115,38.20833588,-120.3399353
+1163,United States,California,Burson,95225,27,38.183918,-120.898819
+1164,United States,California,Campo Seco,95226,75,38.23387909,-120.8616638
+1165,United States,California,Clements,95227,722,38.22728348,-121.0278931
+1166,United States,California,Copperopolis,95228,2633,37.94395447,-120.6710815
+1167,United States,California,Farmington,95230,596,37.95696259,-120.8630524
+1168,United States,California,French Camp,95231,5094,37.87328339,-121.2920303
+1169,United States,California,Glencoe,95232,21,38.35846329,-120.5793076
+1170,United States,California,Hathaway Pines,95233,335,38.18491364,-120.3640823
+1171,United States,California,Linden,95236,3148,38.04774475,-121.0305023
+1172,United States,California,Lockeford,95237,3205,38.16679001,-121.142067
+1173,United States,California,Lodi,95240,45755,38.12354279,-121.1590805
+1174,United States,California,Lodi,95242,22073,38.12808609,-121.4077988
+1175,United States,California,Mokelumne Hill,95245,2718,38.3041954,-120.5924301
+1176,United States,California,Mountain Ranch,95246,1692,38.26426315,-120.5151367
+1177,United States,California,Murphys,95247,4353,38.14785385,-120.4401245
+1178,United States,California,San Andreas,95249,3930,38.19649887,-120.61689
+1180,United States,California,Sheep Ranch,95251,460,38.24480438,-120.4172974
+1181,United States,California,Valley Springs,95252,11266,38.15697098,-120.8492279
+1182,United States,California,Wallace,95254,304,38.19260788,-120.95784
+1183,United States,California,West Point,95255,2198,38.41934967,-120.4695435
+1184,United States,California,Wilseyville,95257,435,38.39268494,-120.4159546
+1185,United States,California,Woodbridge,95258,4176,38.16960526,-121.3109665
+1186,United States,California,Atwater,95301,27808,37.32123184,-120.6563568
+1187,United States,California,Ballico,95303,809,37.4695015,-120.6727219
+1188,United States,California,Big Oak Flat,95305,167,37.81858826,-120.2569962
+1189,United States,California,Catheys Valley,95306,986,37.39440918,-120.1272583
+1190,United States,California,Ceres,95307,32881,37.55347061,-120.9528275
+1191,United States,California,Columbia,95310,2144,38.08583832,-120.3785477
+1192,United States,California,Coulterville,95311,2271,37.72212601,-120.1101761
+1193,United States,California,Cressey,95312,55,37.42027283,-120.6652679
+1194,United States,California,Crows Landing,95313,1508,37.43566513,-121.049057
+1195,United States,California,Delhi,95315,10159,37.42296219,-120.7654953
+1196,United States,California,Denair,95316,5513,37.52471924,-120.7579803
+1197,United States,California,El Nido,95317,808,37.12738419,-120.506424
+1198,United States,California,El Portal,95318,579,37.65455246,-119.8229828
+1199,United States,California,Escalon,95320,11474,37.81854248,-121.0069046
+1200,United States,California,Groveland,95321,3680,37.90296936,-119.6675415
+1201,United States,California,Gustine,95322,7872,37.14719772,-121.120163
+1202,United States,California,Hickman,95323,1055,37.60592651,-120.6995468
+1203,United States,California,Hilmar,95324,7177,37.39453506,-120.8907471
+1204,United States,California,Hornitos,95325,128,37.47992706,-120.230423
+1205,United States,California,Hughson,95326,6822,37.59230042,-120.8532867
+1206,United States,California,Jamestown,95327,9559,37.84770966,-120.4865875
+1207,United States,California,Keyes,95328,2130,37.55562973,-120.9116516
+1208,United States,California,La Grange,95329,1749,37.66658783,-120.4115143
+1209,United States,California,Lathrop,95330,10834,37.80820847,-121.308403
+1210,United States,California,Le Grand,95333,3256,37.2493782,-120.2495804
+1211,United States,California,Livingston,95334,12672,37.36198807,-120.7483902
+1212,United States,California,Long Barn,95335,683,38.10912323,-120.078598
+1213,United States,California,Manteca,95336,36738,37.83026886,-121.2010193
+1214,United States,California,Manteca,95337,19867,37.75082016,-121.2384262
+1215,United States,California,Mariposa,95338,10226,37.52679062,-119.9943695
+1216,United States,California,Merced,95340,59289,37.25563812,-120.4935379
+1217,United States,California,Midpines,95345,433,37.58149719,-119.9727631
+1218,United States,California,Mi Wuk Village,95346,1278,38.1216011,-120.1339188
+1219,United States,California,Merced,95348,23100,37.40121841,-120.5141907
+1220,United States,California,Modesto,95350,52872,37.67180634,-121.007576
+1221,United States,California,Modesto,95351,47536,37.62145615,-121.0122986
+1222,United States,California,Modesto,95354,27135,37.63903046,-120.9647751
+1223,United States,California,Modesto,95355,47613,37.67290497,-120.9465942
+1224,United States,California,Modesto,95356,26055,37.71618652,-121.0258331
+1225,United States,California,Modesto,95357,13343,37.6705246,-120.8775711
+1226,United States,California,Modesto,95358,30668,37.61261368,-121.1085663
+1227,United States,California,Newman,95360,8504,37.34384537,-121.0393906
+1228,United States,California,Oakdale,95361,25384,37.78503418,-120.7761383
+1229,United States,California,Patterson,95363,15536,37.41023636,-121.3203354
+1230,United States,California,Pinecrest,95364,235,38.22486877,-119.7557297
+1231,United States,California,Planada,95365,4150,37.32972336,-120.3063965
+1232,United States,California,Ripon,95366,12646,37.7507782,-121.1323776
+1233,United States,California,Riverbank,95367,16525,37.73497009,-120.9542694
+1234,United States,California,Salida,95368,12466,37.71315384,-121.0873871
+1235,United States,California,Snelling,95369,1158,37.52170944,-120.4268417
+1236,United States,California,Sonora,95370,25340,37.98271561,-120.3437347
+1237,United States,California,Soulsbyville,95372,1519,37.99057388,-120.2618179
+1238,United States,California,Stevinson,95374,1960,37.31680679,-120.855751
+1239,United States,California,Tracy,95376,69801,37.68096924,-121.4460526
+1240,United States,California,Tuolumne,95379,3979,37.93976974,-120.1880035
+1241,United States,California,Turlock,95380,40545,37.47439575,-120.8759155
+1242,United States,California,Turlock,95382,24708,37.52965546,-120.8543549
+1243,United States,California,Twain Harte,95383,4848,38.10744095,-120.2306213
+1244,United States,California,Vernalis,95385,274,37.60909653,-121.263382
+1245,United States,California,Waterford,95386,8308,37.66951752,-120.6269608
+1247,United States,California,Winton,95388,11463,37.42129898,-120.5995865
+1249,United States,California,Santa Rosa,95401,36125,38.46051788,-122.7903366
+1250,United States,California,Santa Rosa,95403,40270,38.48843002,-122.7528381
+1251,United States,California,Santa Rosa,95404,35057,38.52693939,-122.7090988
+1252,United States,California,Santa Rosa,95405,22250,38.43969727,-122.6688156
+1253,United States,California,Santa Rosa,95407,30876,38.39409256,-122.7398148
+1254,United States,California,Santa Rosa,95409,25718,38.46889114,-122.5805359
+1255,United States,California,Albion,95410,1054,39.22569275,-123.7173538
+1256,United States,California,Annapolis,95412,747,38.73105621,-123.3165512
+1257,United States,California,Boonville,95415,1374,39.02586746,-123.381546
+1258,United States,California,Branscomb,95417,176,39.71059036,-123.6828003
+1260,United States,California,Caspar,95420,333,39.36128235,-123.7845993
+1261,United States,California,Cazadero,95421,1575,38.57880783,-123.1933823
+1262,United States,California,Clearlake,95422,13485,38.96580505,-122.6317825
+1263,United States,California,Clearlake Oaks,95423,3684,39.07115936,-122.5985413
+1265,United States,California,Cloverdale,95425,9210,38.8019371,-122.9389343
+1266,United States,California,Cobb,95426,1591,38.83808899,-122.7320328
+1267,United States,California,Comptche,95427,371,39.23981857,-123.5654297
+1268,United States,California,Covelo,95428,2296,39.83306885,-123.1787643
+1269,United States,California,Dos Rios,95429,91,39.75605011,-123.3587036
+1270,United States,California,Duncans Mills,95430,187,38.44560242,-123.0637589
+1271,United States,California,Eldridge,95431,363,38.34888458,-122.5169907
+1272,United States,California,Elk,95432,383,39.10825348,-123.6451187
+1273,United States,California,Forestville,95436,6216,38.49930191,-122.9244385
+1274,United States,California,Fort Bragg,95437,14417,39.45555496,-123.6839752
+1275,United States,California,Fulton,95439,476,38.49388885,-122.7771378
+1276,United States,California,Geyserville,95441,2349,38.73176956,-123.06427
+1277,United States,California,Glen Ellen,95442,4101,38.3687439,-122.522644
+1278,United States,California,Glenhaven,95443,175,39.04524612,-122.7431793
+1279,United States,California,Graton,95444,390,38.4343605,-122.8689117
+1280,United States,California,Gualala,95445,1916,38.8480835,-123.5060806
+1281,United States,California,Guerneville,95446,4913,38.52576065,-123.0133438
+1282,United States,California,Healdsburg,95448,17979,38.61834717,-122.9084244
+1283,United States,California,Hopland,95449,1373,38.93706131,-123.1181107
+1284,United States,California,Jenner,95450,438,38.5059967,-123.1870193
+1285,United States,California,Kelseyville,95451,9902,38.93495941,-122.792244
+1286,United States,California,Kenwood,95452,1653,38.41952515,-122.5215836
+1287,United States,California,Lakeport,95453,11180,39.08046722,-122.9551773
+1288,United States,California,Laytonville,95454,2706,39.8061409,-123.5310974
+1289,United States,California,Little River,95456,882,39.24591064,-123.7721405
+1290,United States,California,Lower Lake,95457,2644,38.92554474,-122.5490799
+1291,United States,California,Lucerne,95458,3002,39.14193344,-122.7706757
+1292,United States,California,Manchester,95459,586,38.96671295,-123.5864105
+1293,United States,California,Mendocino,95460,2229,39.30554581,-123.7436981
+1294,United States,California,Middletown,95461,7789,38.78744507,-122.5867462
+1295,United States,California,Monte Rio,95462,1537,38.47105026,-123.0155487
+1296,United States,California,Navarro,95463,148,39.18291473,-123.5525742
+1297,United States,California,Nice,95464,2223,39.12334061,-122.8381958
+1298,United States,California,Occidental,95465,1880,38.41500473,-122.9987259
+1299,United States,California,Philo,95466,1113,39.09410095,-123.5008545
+1300,United States,California,Point Arena,95468,1352,38.91130066,-123.6095886
+1301,United States,California,Potter Valley,95469,1884,39.40863419,-123.045517
+1302,United States,California,Redwood Valley,95470,5995,39.29806519,-123.2521133
+1303,United States,California,Rio Nido,95471,298,38.52232742,-122.9793167
+1304,United States,California,Sebastopol,95472,31266,38.39881516,-122.8619232
+1305,United States,California,Sonoma,95476,34314,38.25484848,-122.4617996
+1308,United States,California,Ukiah,95482,30988,39.13407516,-123.2342224
+1309,United States,California,Upper Lake,95485,2344,39.22036743,-122.907692
+1310,United States,California,Westport,95488,309,39.7244339,-123.7675781
+1311,United States,California,Willits,95490,13472,39.49204636,-123.3758163
+1312,United States,California,Windsor,95492,23701,38.52729797,-122.8100433
+1313,United States,California,Witter Springs,95493,240,39.22232437,-122.9854889
+1314,United States,California,Yorkville,95494,335,38.88835144,-123.2396469
+1315,United States,California,The Sea Ranch,95497,752,38.69665909,-123.4368591
+1316,United States,California,Eureka,95501,23224,40.79661942,-124.1542816
+1318,United States,California,Eureka,95503,23570,40.73743057,-124.1088943
+1319,United States,California,Alderpoint,95511,261,40.16602707,-123.5841446
+1320,United States,California,Blocksburg,95514,199,40.30908966,-123.6681976
+1321,United States,California,Mckinleyville,95519,15921,40.9650116,-124.0152588
+1322,United States,California,Arcata,95521,19596,40.83995819,-124.0037537
+1323,United States,California,Bayside,95524,1689,40.82548523,-124.0494843
+1324,United States,California,Blue Lake,95525,1584,40.94337845,-123.8318024
+1325,United States,California,Bridgeville,95526,695,40.37253189,-123.5256271
+1326,United States,California,Burnt Ranch,95527,485,40.85451126,-123.4500961
+1327,United States,California,Carlotta,95528,1072,40.49728394,-123.9303665
+1329,United States,California,Ferndale,95536,2965,40.47850037,-124.3013687
+1330,United States,California,Fields Landing,95537,228,40.72694778,-124.2173767
+1331,United States,California,Fortuna,95540,12241,40.58499146,-124.1215057
+1332,United States,California,Garberville,95542,2423,40.05778503,-123.6794586
+1333,United States,California,Gasquet,95543,532,41.86790848,-123.7941437
+1334,United States,California,Honeydew,95545,82,40.34292984,-124.0633316
+1335,United States,California,Hoopa,95546,3041,41.16363525,-123.7048416
+1336,United States,California,Hydesville,95547,1201,40.55731583,-124.081665
+1337,United States,California,Klamath,95548,1215,41.57281113,-124.0350113
+1338,United States,California,Kneeland,95549,264,40.66448212,-123.8653259
+1339,United States,California,Korbel,95550,155,40.76660156,-123.8045807
+1340,United States,California,Loleta,95551,1447,40.66595078,-124.2400513
+1341,United States,California,Mad River,95552,265,40.39030075,-123.4123306
+1342,United States,California,Miranda,95553,867,40.21089554,-123.8600006
+1343,United States,California,Myers Flat,95554,644,40.26715851,-123.8059158
+1344,United States,California,Orick,95555,494,41.3363533,-124.0443573
+1345,United States,California,Orleans,95556,574,41.26951981,-123.5469589
+1346,United States,California,Petrolia,95558,300,40.27430344,-124.2108994
+1347,United States,California,Phillipsville,95559,163,40.18409348,-123.7454834
+1348,United States,California,Redway,95560,1851,40.14225769,-123.8529282
+1349,United States,California,Rio Dell,95562,3284,40.48584747,-124.1632309
+1350,United States,California,Salyer,95563,660,40.89865875,-123.5397568
+1351,United States,California,Samoa,95564,395,40.80963516,-124.1899796
+1352,United States,California,Scotia,95565,1125,40.44063568,-124.0987396
+1353,United States,California,Smith River,95567,2020,41.95068359,-124.0970917
+1354,United States,California,Somes Bar,95568,202,41.44460678,-123.4718933
+1355,United States,California,Redcrest,95569,400,40.36344528,-123.8350372
+1356,United States,California,Trinidad,95570,2369,41.1622963,-124.0273819
+1357,United States,California,Weott,95571,270,40.31011963,-123.9094467
+1358,United States,California,Willow Creek,95573,1666,40.94901276,-123.6558456
+1359,United States,California,Leggett,95585,321,39.87337112,-123.7414703
+1360,United States,California,Piercy,95587,200,39.95558548,-123.6811752
+1362,United States,California,Zenia,95595,259,40.17035675,-123.4172974
+1363,United States,California,Amador City,95601,222,38.43140793,-120.8421021
+1364,United States,California,Auburn,95602,18197,38.99002838,-121.1144104
+1365,United States,California,Auburn,95603,24944,38.91287994,-121.0827637
+1366,United States,California,West Sacramento,95605,12756,38.59274673,-121.5400391
+1367,United States,California,Brooks,95606,382,38.80980301,-122.2413864
+1368,United States,California,Capay,95607,262,38.68165207,-122.1305695
+1369,United States,California,Carmichael,95608,58830,38.62612915,-121.3280106
+1370,United States,California,Citrus Heights,95610,43718,38.6950798,-121.2716141
+1371,United States,California,Clarksburg,95612,1417,38.38464737,-121.5786972
+1373,United States,California,Cool,95614,3674,38.88062286,-120.9738617
+1374,United States,California,Courtland,95615,699,38.31160736,-121.5540314
+1375,United States,California,Davis,95616,67411,38.50873566,-121.6788101
+1376,United States,California,Davis,95618,648,38.54400253,-121.6855621
+1377,United States,California,Diamond Springs,95619,4426,38.68360519,-120.8118515
+1378,United States,California,Dixon,95620,18529,38.39282227,-121.7999191
+1379,United States,California,Citrus Heights,95621,41636,38.69549179,-121.3078613
+1380,United States,California,El Dorado,95623,4097,38.63153076,-120.8426056
+1381,United States,California,Elk Grove,95624,38534,38.43413925,-121.3058701
+1382,United States,California,Elmira,95625,171,38.34919357,-121.9029465
+1383,United States,California,Elverta,95626,6197,38.7349968,-121.4637222
+1384,United States,California,Esparto,95627,2756,38.83446884,-122.1271896
+1385,United States,California,Fair Oaks,95628,40750,38.65206528,-121.2544098
+1386,United States,California,Fiddletown,95629,850,38.51348495,-120.7046127
+1387,United States,California,Folsom,95630,51855,38.67263794,-121.1473999
+1388,United States,California,Foresthill,95631,5714,39.03187561,-120.811142
+1389,United States,California,Galt,95632,24194,38.27445221,-121.259201
+1390,United States,California,Garden Valley,95633,2536,38.85254288,-120.8376694
+1391,United States,California,Georgetown,95634,2723,38.93859863,-120.7855148
+1392,United States,California,Greenwood,95635,1140,38.92133331,-120.8977203
+1393,United States,California,Grizzly Flats,95636,659,38.63610077,-120.5221481
+1394,United States,California,Guinda,95637,228,38.83073807,-122.1962051
+1395,United States,California,Herald,95638,1745,38.31344604,-121.1238861
+1396,United States,California,Hood,95639,213,38.37532425,-121.5079346
+1397,United States,California,Ione,95640,9752,38.33787918,-120.9542007
+1398,United States,California,Isleton,95641,2010,38.1548233,-121.6013565
+1399,United States,California,Jackson,95642,6202,38.33621597,-120.7690125
+1400,United States,California,Knights Landing,95645,1793,38.87550735,-121.7658691
+1401,United States,California,Kirkwood,95646,129,38.6314888,-120.0151672
+1402,United States,California,Lincoln,95648,15286,38.92281342,-121.3120041
+1403,United States,California,Loomis,95650,11191,38.80917358,-121.1713715
+1404,United States,California,Lotus,95651,485,38.81551361,-120.9169998
+1405,United States,California,Madison,95653,844,38.67427444,-121.9618683
+1406,United States,California,Mather,95655,929,38.54982376,-121.2667236
+1407,United States,California,Newcastle,95658,6096,38.88322449,-121.1591797
+1408,United States,California,Nicolaus,95659,751,38.78889847,-121.6086273
+1409,United States,California,North Highlands,95660,32202,38.67129517,-121.3882523
+1410,United States,California,Roseville,95661,25173,38.73668671,-121.2519836
+1411,United States,California,Orangevale,95662,32040,38.68917465,-121.2184372
+1412,United States,California,Penryn,95663,2048,38.85909271,-121.182869
+1413,United States,California,Pilot Hill,95664,1173,38.80373001,-121.0438004
+1414,United States,California,Pine Grove,95665,4354,38.40026474,-120.6412735
+1415,United States,California,Pioneer,95666,5501,38.54700089,-120.2711105
+1416,United States,California,Placerville,95667,34146,38.73371506,-120.7952118
+1417,United States,California,Pleasant Grove,95668,901,38.83355331,-121.4981003
+1418,United States,California,Plymouth,95669,2220,38.48927307,-120.8916168
+1419,United States,California,Rancho Cordova,95670,49729,38.60272217,-121.2799149
+1420,United States,California,Rescue,95672,3815,38.72432327,-120.9912338
+1421,United States,California,Rio Linda,95673,14010,38.68876266,-121.4575958
+1422,United States,California,Rio Oso,95674,947,38.95414352,-121.4825363
+1423,United States,California,River Pines,95675,364,38.54577637,-120.7433243
+1425,United States,California,Rocklin,95677,21510,38.79040146,-121.2369766
+1426,United States,California,Roseville,95678,30614,38.75975037,-121.2885437
+1427,United States,California,Sheridan,95681,1219,38.98475647,-121.3450775
+1428,United States,California,Shingle Springs,95682,24738,38.59893417,-120.963089
+1429,United States,California,Sloughhouse,95683,4731,38.47042465,-121.1148987
+1430,United States,California,Somerset,95684,2958,38.60670471,-120.5866623
+1431,United States,California,Sutter Creek,95685,4610,38.43214417,-120.7706909
+1432,United States,California,Thornton,95686,1472,38.15779495,-121.5202255
+1433,United States,California,Vacaville,95687,63157,38.3331337,-121.9201508
+1434,United States,California,Vacaville,95688,32564,38.41908646,-122.0245667
+1435,United States,California,Volcano,95689,1273,38.48190308,-120.6036682
+1436,United States,California,Walnut Grove,95690,2344,38.24041748,-121.587532
+1437,United States,California,West Sacramento,95691,19050,38.62795258,-121.5932846
+1438,United States,California,Wheatland,95692,3600,39.04338837,-121.4098358
+1439,United States,California,Wilton,95693,5889,38.39255905,-121.22509
+1440,United States,California,Winters,95694,8406,38.57860565,-122.0245819
+1441,United States,California,Woodland,95695,38547,38.71966934,-121.8624191
+1442,United States,California,Alta,95701,751,39.21809769,-120.7915268
+1443,United States,California,Applegate,95703,1526,38.98338699,-120.9888153
+1444,United States,California,Camino,95709,4829,38.74831772,-120.6755142
+1445,United States,California,Colfax,95713,8525,39.08464432,-120.8940125
+1446,United States,California,Dutch Flat,95714,350,39.19721603,-120.836792
+1447,United States,California,Emigrant Gap,95715,185,39.2375412,-120.7201996
+1448,United States,California,Gold Run,95717,407,39.17037582,-120.8384018
+1449,United States,California,Kyburz,95720,183,38.76603699,-120.209671
+1450,United States,California,Echo Lake,95721,69,38.85184097,-120.0762024
+1451,United States,California,Meadow Vista,95722,3747,39.00335693,-121.0225372
+1452,United States,California,Pollock Pines,95726,8577,38.73390961,-120.4534149
+1453,United States,California,Soda Springs,95728,88,39.27906799,-120.4142761
+1454,United States,California,Twin Bridges,95735,25,38.80548096,-120.1328735
+1455,United States,California,Weimar,95736,31,39.00978088,-120.9782715
+1456,United States,California,Rancho Cordova,95742,299,38.59113312,-121.1615829
+1457,United States,California,Granite Bay,95746,20675,38.74946594,-121.1841965
+1458,United States,California,Roseville,95747,25418,38.78432846,-121.3732452
+1459,United States,California,Elk Grove,95758,47065,38.35363007,-121.4419479
+1460,United States,California,El Dorado Hills,95762,22028,38.6844368,-121.0556335
+1461,United States,California,Rocklin,95765,15494,38.82327652,-121.2818527
+1462,United States,California,Woodland,95776,15022,38.69408035,-121.6944275
+1463,United States,California,Sacramento,95814,16599,38.58450317,-121.4919586
+1464,United States,California,Sacramento,95815,25355,38.60840607,-121.4499435
+1465,United States,California,Sacramento,95816,16164,38.5748558,-121.4650421
+1466,United States,California,Sacramento,95817,14966,38.55072021,-121.4573135
+1467,United States,California,Sacramento,95818,21313,38.55630493,-121.4958191
+1468,United States,California,Sacramento,95819,15975,38.56759262,-121.4375076
+1469,United States,California,Sacramento,95820,37031,38.53507996,-121.4441452
+1470,United States,California,Sacramento,95821,35426,38.62509537,-121.3836594
+1471,United States,California,Sacramento,95822,44683,38.51256943,-121.4951859
+1472,United States,California,Sacramento,95823,72199,38.47546387,-121.4436264
+1473,United States,California,Sacramento,95824,30580,38.51729584,-121.4398193
+1474,United States,California,Sacramento,95825,30715,38.59003448,-121.4124527
+1475,United States,California,Sacramento,95826,38818,38.54253387,-121.3788223
+1476,United States,California,Sacramento,95827,19611,38.54918671,-121.3283844
+1477,United States,California,Sacramento,95828,54880,38.48693848,-121.3958054
+1478,United States,California,Sacramento,95829,11396,38.4865036,-121.334053
+1479,United States,California,Sacramento,95830,592,38.49050903,-121.2841721
+1480,United States,California,Sacramento,95831,42832,38.49483109,-121.5294495
+1481,United States,California,Sacramento,95832,9063,38.44593811,-121.4968567
+1482,United States,California,Sacramento,95833,31422,38.61904907,-121.5175552
+1483,United States,California,Sacramento,95834,8403,38.64620972,-121.5244598
+1484,United States,California,Sacramento,95835,854,38.68507004,-121.5437088
+1486,United States,California,Sacramento,95837,264,38.69160843,-121.6022873
+1487,United States,California,Sacramento,95838,34894,38.64609528,-121.4424362
+1488,United States,California,Sacramento,95841,20993,38.66044235,-121.3463211
+1489,United States,California,Sacramento,95842,31373,38.68736649,-121.3484802
+1490,United States,California,Antelope,95843,36432,38.71549988,-121.3634109
+1491,United States,California,Sacramento,95864,23362,38.58582687,-121.3762665
+1492,United States,California,Marysville,95901,38091,39.19514084,-121.5038834
+1493,United States,California,Beale Afb,95903,5654,39.12531281,-121.3922806
+1494,United States,California,Alleghany,95910,118,39.46782684,-120.8413849
+1495,United States,California,Arbuckle,95912,4796,38.98237228,-122.0477524
+1497,United States,California,Bangor,95914,626,39.39658356,-121.3802872
+1498,United States,California,Berry Creek,95916,1279,39.65722656,-121.3777771
+1499,United States,California,Biggs,95917,3169,39.45738983,-121.8181992
+1500,United States,California,Browns Valley,95918,1477,39.29233551,-121.3205948
+1501,United States,California,Brownsville,95919,1237,39.44068527,-121.2635803
+1502,United States,California,Butte City,95920,303,39.44979477,-121.9363708
+1503,United States,California,Camptonville,95922,632,39.43212891,-121.0992889
+1504,United States,California,Canyon Dam,95923,86,40.17131042,-121.1206055
+1505,United States,California,Challenge,95925,262,39.4617691,-121.1958237
+1506,United States,California,Chico,95926,35808,39.74571228,-121.8433304
+1507,United States,California,Chico,95928,32848,39.68148804,-121.8372116
+1508,United States,California,Clipper Mills,95930,282,39.5622406,-121.1483612
+1509,United States,California,Colusa,95932,7503,39.27309418,-122.050766
+1510,United States,California,Crescent Mills,95934,178,40.08034134,-120.9578018
+1511,United States,California,Dobbins,95935,614,39.38117218,-121.2119064
+1512,United States,California,Downieville,95936,404,39.57879257,-120.7807846
+1513,United States,California,Dunnigan,95937,19,38.93142319,-121.9460831
+1514,United States,California,Durham,95938,3524,39.60783005,-121.7779617
+1515,United States,California,Elk Creek,95939,587,39.53221893,-122.5948792
+1516,United States,California,Forbestown,95941,452,39.53102875,-121.2480698
+1517,United States,California,Forest Ranch,95942,1351,40.07702637,-121.4941711
+1518,United States,California,Glenn,95943,1454,39.59797668,-122.0322495
+1519,United States,California,Goodyears Bar,95944,76,39.56411362,-120.8688354
+1520,United States,California,Grass Valley,95945,23990,39.19453812,-120.9880676
+1521,United States,California,Penn Valley,95946,9752,39.20381546,-121.1958389
+1522,United States,California,Greenville,95947,2064,40.16038513,-120.8354263
+1523,United States,California,Gridley,95948,9763,39.34689713,-121.7595367
+1524,United States,California,Grass Valley,95949,17922,39.09920502,-121.1379623
+1525,United States,California,Grimes,95950,531,39.03305817,-121.8957214
+1526,United States,California,Hamilton City,95951,1931,39.7327652,-122.0422974
+1527,United States,California,Live Oak,95953,8695,39.2587471,-121.7769699
+1528,United States,California,Magalia,95954,11168,39.93385315,-121.5843735
+1529,United States,California,Maxwell,95955,1146,39.28119278,-122.2265701
+1530,United States,California,Meadow Valley,95956,301,39.93701553,-121.0580444
+1531,United States,California,Meridian,95957,776,39.06806946,-121.8326416
+1532,United States,California,Nevada City,95959,17269,39.33373642,-120.8586655
+1533,United States,California,North San Juan,95960,565,39.42304611,-120.9844742
+1534,United States,California,Olivehurst,95961,6439,39.08256912,-121.5532532
+1535,United States,California,Oregon House,95962,1519,39.34258652,-121.2498322
+1536,United States,California,Orland,95963,13706,39.74803543,-122.3021698
+1537,United States,California,Oroville,95965,17782,39.62456131,-121.5528641
+1538,United States,California,Oroville,95966,28382,39.47389603,-121.4159241
+1539,United States,California,Palermo,95968,1254,39.43575668,-121.5520706
+1540,United States,California,Paradise,95969,28318,39.69675827,-121.6443787
+1541,United States,California,Princeton,95970,495,39.42495728,-122.0393066
+1542,United States,California,Quincy,95971,6189,39.97122955,-121.0411682
+1544,United States,California,Chico,95973,26971,39.90327072,-121.8435669
+1545,United States,California,Richvale,95974,74,39.4957695,-121.7474747
+1546,United States,California,Rough And Ready,95975,1601,39.22563553,-121.1561661
+1547,United States,California,Smartville,95977,963,39.17659378,-121.2916946
+1548,United States,California,Stirling City,95978,28,39.90400314,-121.5278244
+1549,United States,California,Stonyford,95979,844,39.2881279,-122.4158401
+1550,United States,California,Strawberry Valley,95981,101,39.58457947,-121.0932541
+1551,United States,California,Sutter,95982,3193,39.17277527,-121.8058472
+1552,United States,California,Taylorsville,95983,513,40.05368423,-120.7431183
+1553,United States,California,Twain,95984,73,40.02218246,-121.0623856
+1554,United States,California,Washington,95986,145,39.34128189,-120.7868652
+1555,United States,California,Williams,95987,4579,39.11753845,-122.2846527
+1556,United States,California,Willows,95988,8812,39.49399185,-122.2863617
+1557,United States,California,Yuba City,95991,34967,39.0274086,-121.6149826
+1558,United States,California,Yuba City,95993,27786,39.07569504,-121.7060623
+1559,United States,California,Redding,96001,31586,40.58791733,-122.4647293
+1560,United States,California,Redding,96002,30338,40.52783585,-122.3187485
+1561,United States,California,Redding,96003,41476,40.67765045,-122.2946701
+1562,United States,California,Adin,96006,615,41.17157745,-120.9131622
+1563,United States,California,Anderson,96007,21418,40.44863129,-122.3066559
+1564,United States,California,Bella Vista,96008,899,40.72273254,-122.1096649
+1565,United States,California,Bieber,96009,595,41.08346558,-121.1079254
+1566,United States,California,Big Bar,96010,269,40.77527237,-123.2874146
+1567,United States,California,Big Bend,96011,265,41.09656906,-121.8790817
+1568,United States,California,Burney,96013,4552,40.94678497,-121.7194901
+1569,United States,California,Callahan,96014,290,41.38839722,-122.7946396
+1570,United States,California,Canby,96015,417,41.48695374,-120.9139786
+1571,United States,California,Cassel,96016,344,40.93628311,-121.5726929
+1572,United States,California,Castella,96017,228,41.12110901,-122.3366165
+1573,United States,California,Shasta Lake,96019,6277,40.69252396,-122.369873
+1574,United States,California,Chester,96020,2664,40.24349213,-121.1547318
+1575,United States,California,Corning,96021,13840,39.9137764,-122.2899857
+1576,United States,California,Cottonwood,96022,12348,40.33639145,-122.4485321
+1577,United States,California,Dorris,96023,1162,41.94921494,-122.0500641
+1578,United States,California,Douglas City,96024,960,40.58658981,-122.9036789
+1579,United States,California,Dunsmuir,96025,2602,41.21269608,-122.392067
+1580,United States,California,Etna,96027,2156,41.40519333,-123.0085678
+1581,United States,California,Fall River Mills,96028,1902,41.01728058,-121.4689484
+1582,United States,California,Flournoy,96029,84,39.84783936,-122.5445557
+1583,United States,California,Forks Of Salmon,96031,170,41.23212814,-123.1947479
+1585,United States,California,French Gulch,96033,373,40.74013901,-122.5874786
+1586,United States,California,Gazelle,96034,392,41.41131592,-122.6972351
+1587,United States,California,Gerber,96035,3357,40.03194046,-122.1760254
+1588,United States,California,Greenview,96037,295,41.52854156,-122.9550171
+1589,United States,California,Grenada,96038,616,41.5999794,-122.5393829
+1590,United States,California,Happy Camp,96039,1294,41.83190155,-123.4874802
+1591,United States,California,Hat Creek,96040,397,40.78979874,-121.4745255
+1593,United States,California,Hornbrook,96044,1026,41.96212769,-122.5276947
+1594,United States,California,Hyampom,96046,268,40.64802551,-123.4650879
+1595,United States,California,Igo,96047,911,40.52453613,-122.647171
+1596,United States,California,Junction City,96048,734,40.91319275,-123.0659714
+1597,United States,California,Klamath River,96050,482,41.81659317,-122.948288
+1598,United States,California,Lakehead,96051,1236,40.88385391,-122.4182587
+1599,United States,California,Lewiston,96052,1845,40.7042923,-122.8039017
+1600,United States,California,Lookout,96054,386,41.28047943,-121.1602478
+1601,United States,California,Los Molinos,96055,3756,40.05938339,-122.0914841
+1602,United States,California,Mcarthur,96056,1554,41.1083107,-121.3603592
+1603,United States,California,Mccloud,96057,1586,41.2513237,-122.1052094
+1604,United States,California,Macdoel,96058,816,41.76971054,-121.9206314
+1605,United States,California,Manton,96059,598,40.4266777,-121.8504181
+1606,United States,California,Mill Creek,96061,78,40.33197403,-121.4606705
+1607,United States,California,Millville,96062,830,40.53125763,-122.14814
+1608,United States,California,Mineral,96063,124,40.4087944,-121.5796127
+1610,United States,California,Montgomery Creek,96065,431,40.87755203,-121.8858871
+1611,United States,California,Mount Shasta,96067,7309,41.33832169,-122.2907562
+1612,United States,California,Nubieber,96068,240,41.08247375,-121.1952133
+1613,United States,California,Oak Run,96069,829,40.68924332,-122.0370255
+1614,United States,California,Old Station,96071,182,40.65628815,-121.4289627
+1615,United States,California,Palo Cedro,96073,4931,40.58239746,-122.1955109
+1616,United States,California,Paskenta,96074,263,39.8843956,-122.5875168
+1617,United States,California,Paynes Creek,96075,433,40.34321213,-121.8154144
+1618,United States,California,Platina,96076,215,40.3679657,-122.9373779
+1619,United States,California,Red Bluff,96080,26438,40.18677139,-122.3883591
+1620,United States,California,Round Mountain,96084,459,40.92355728,-122.0599365
+1621,United States,California,Scott Bar,96085,88,41.73796082,-123.0755692
+1622,United States,California,Seiad Valley,96086,332,41.92417526,-123.260788
+1623,United States,California,Shasta,96087,528,40.61761475,-122.5128632
+1624,United States,California,Shingletown,96088,4231,40.49744034,-121.8275223
+1625,United States,California,Tehama,96090,405,40.02178574,-122.1275787
+1626,United States,California,Trinity Center,96091,734,41.08184814,-122.7005463
+1627,United States,California,Vina,96092,439,39.95516586,-122.0185699
+1628,United States,California,Weaverville,96093,3749,40.75939941,-122.9393387
+1629,United States,California,Weed,96094,5896,41.46512222,-122.3809433
+1630,United States,California,Whitmore,96096,843,40.63710403,-121.9069519
+1631,United States,California,Yreka,96097,9538,41.76486969,-122.6713181
+1632,United States,California,Alturas,96101,5096,41.46887589,-120.5422897
+1633,United States,California,Blairsden Graeagle,96103,1839,39.78374863,-120.6610336
+1634,United States,California,Cedarville,96104,857,41.5059166,-120.152504
+1635,United States,California,Chilcoot,96105,650,39.87295914,-120.1988754
+1636,United States,California,Clio,96106,88,39.74580383,-120.5808792
+1637,United States,California,Coleville,96107,1332,38.42528152,-119.4757385
+1638,United States,California,Davis Creek,96108,104,41.75035477,-120.4038849
+1639,United States,California,Doyle,96109,1177,40.01267624,-120.10186
+1640,United States,California,Eagleville,96110,132,41.2803421,-120.150383
+1641,United States,California,Fort Bidwell,96112,231,41.9322052,-120.1359406
+1642,United States,California,Herlong,96113,946,40.19823456,-120.1808929
+1643,United States,California,Janesville,96114,3093,40.29403305,-120.512619
+1645,United States,California,Likely,96116,277,41.26600647,-120.4907303
+1646,United States,California,Litchfield,96117,385,40.50727081,-120.3382263
+1647,United States,California,Loyalton,96118,1822,39.63747025,-120.2263412
+1648,United States,California,Madeline,96119,85,41.04200363,-120.5060883
+1649,United States,California,Markleeville,96120,957,38.73579025,-119.8579788
+1650,United States,California,Milford,96121,481,40.18127823,-120.3929672
+1651,United States,California,Portola,96122,4236,39.78675461,-120.4456253
+1652,United States,California,Ravendale,96123,61,40.84573746,-120.3222198
+1653,United States,California,Calpine,96124,322,39.67281342,-120.4566956
+1654,United States,California,Sierra City,96125,348,39.60059738,-120.6363602
+1655,United States,California,Sierraville,96126,227,39.55970764,-120.3456421
+1656,United States,California,Standish,96128,408,40.34663391,-120.3864212
+1657,United States,California,Susanville,96130,19440,40.5591774,-120.612114
+1658,United States,California,Termo,96132,72,41.02728271,-120.669426
+1659,United States,California,Topaz,96133,116,38.63605118,-119.4891586
+1660,United States,California,Tulelake,96134,2595,41.81352234,-121.4926682
+1661,United States,California,Wendel,96136,162,40.34594727,-120.0811844
+1662,United States,California,Westwood,96137,4158,40.27153397,-121.0180893
+1663,United States,California,Carnelian Bay,96140,1943,39.22743225,-120.0918045
+1664,United States,California,Homewood,96141,858,39.11701965,-120.212532
+1665,United States,California,Tahoma,96142,1291,39.06122589,-120.1795425
+1666,United States,California,Kings Beach,96143,4806,39.24665451,-120.029274
+1667,United States,California,Tahoe City,96145,4002,39.1783371,-120.1628036
+1668,United States,California,Olympic Valley,96146,942,39.19179535,-120.2124023
+1669,United States,California,Tahoe Vista,96148,678,39.24124146,-120.0547638
+1670,United States,California,South Lake Tahoe,96150,33038,38.91157532,-120.1061707

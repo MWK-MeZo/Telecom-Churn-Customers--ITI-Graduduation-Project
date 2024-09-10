@@ -1,0 +1,21 @@
+Churn_Reason_ID,Reason_Description
+1,Attitude of service provider
+2,Attitude of support person
+3,Competitor had better devices
+4,Competitor made better offer
+5,Competitor offered higher download speeds
+6,Competitor offered more data
+7,Deceased
+8,Don't know
+9,Extra data charges
+10,Lack of affordable download/upload speed
+11,Lack of self-service on Website
+12,Limited range of services
+13,Long distance charges
+14,Moved
+15,Network reliability
+16,Poor expertise of online support
+17,Poor expertise of phone support
+18,Price too high
+19,Product dissatisfaction
+20,Service dissatisfaction

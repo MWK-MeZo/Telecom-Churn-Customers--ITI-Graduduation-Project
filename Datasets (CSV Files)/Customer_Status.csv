@@ -1,0 +1,4 @@
+Customer_Status_ID,Customer_Status
+1,Joined
+2,Stayed
+3,Churned
