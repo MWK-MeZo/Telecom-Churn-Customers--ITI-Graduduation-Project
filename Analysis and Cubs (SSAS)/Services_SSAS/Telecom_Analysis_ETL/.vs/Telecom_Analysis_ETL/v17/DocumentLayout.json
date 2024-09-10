@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MWKme\\OneDrive\\Desktop\\Graduation Project\\SSAS\\Telecom_Analysis_ETL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{918765F8-9B16-4368-8209-A6F360F7ED45}|Telecom_Analysis_ETL\\Telecom_Analysis_ETL.dwproj|C:\\Users\\MWKme\\OneDrive\\Desktop\\Graduation Project\\SSAS\\Telecom_Analysis_ETL\\Telecom_Analysis_ETL\\Telecom DWH.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{918765F8-9B16-4368-8209-A6F360F7ED45}|Telecom_Analysis_ETL\\Telecom_Analysis_ETL.dwproj|solutionrelative:Telecom_Analysis_ETL\\Telecom DWH.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Telecom DWH.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\MWKme\\OneDrive\\Desktop\\Graduation Project\\SSAS\\Telecom_Analysis_ETL\\Telecom_Analysis_ETL\\Telecom DWH.cube",
+              "RelativeDocumentMoniker": "Telecom_Analysis_ETL\\Telecom DWH.cube",
+              "ToolTip": "C:\\Users\\MWKme\\OneDrive\\Desktop\\Graduation Project\\SSAS\\Telecom_Analysis_ETL\\Telecom_Analysis_ETL\\Telecom DWH.cube [Design]",
+              "RelativeToolTip": "Telecom_Analysis_ETL\\Telecom DWH.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T22:34:23.14Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Telecon_SSAS_Final</Database>
+    <Server>MSI\MSSQLSERVER02</Server>
+    <ConnectionString>Data Source=MSI\MSSQLSERVER02;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>hTl7/H4JJb2xMZRxoEMdj4/Ze6s=8/23/2024 6:38:26 PM8/23/2024 6:38:26 PM</TimeStamp>
+        <ID>
+          <String>Telecom DWH</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>BmtmrKQ7m1NorQAnLzXZRbVZe5U=8/23/2024 6:39:02 PM8/23/2024 6:39:02 PM</TimeStamp>
+        <ID>
+          <String>Telecom DWH</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ppcZApkkGIrG3uLFT2GcEALENRM=8/23/2024 6:40:31 PM8/23/2024 6:40:31 PM</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>sEz+nWFw3O8P7qx9/vHAQqHvF8k=8/23/2024 6:42:50 PM8/23/2024 6:40:31 PM</TimeStamp>
+        <ID>
+          <String>Dim Internet Service</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>mUxISzXHZt1dVhF9cOLcyvHw5v0=8/23/2024 7:11:13 PM8/23/2024 6:40:31 PM</TimeStamp>
+        <ID>
+          <String>Dim Churn Category Reason</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>5OgIAQdQMhf9ppDf4iHddmPzPQM=8/23/2024 6:41:08 PM8/23/2024 6:40:31 PM</TimeStamp>
+        <ID>
+          <String>Dim Location</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>vGx2pPJjPmPe3BbL5VY9Vzmgf0k=8/23/2024 7:20:37 PM8/23/2024 6:40:31 PM</TimeStamp>
+        <ID>
+          <String>Dim Customer</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>l8har8VffrbN9s+UGNuQfupEAnc=8/23/2024 6:42:34 PM8/23/2024 6:40:31 PM</TimeStamp>
+        <ID>
+          <String>Dim Phone Service</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>YD3We08+Mfe8wfAhaV0pTiAtMu8=8/23/2024 7:20:38 PM8/23/2024 6:40:31 PM+ia88HUd+YQACdNIVsiqxnD5DOA=8/23/2024 6:44:55 PM8/23/2024 6:40:31 PM</TimeStamp>
+        <ID>
+          <String>Telecom DWH</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>OTWYUjzhTn5OCmhVE4PPXx4lJxM=8/23/2024 6:37:32 PM8/23/2024 6:37:32 PM</TimeStamp>
+      <ID>
+        <String>Telecon_SSAS_Final</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-08-23T16:20:45.876667Z</LastDeployed>
+</DeploymentSnapshot>

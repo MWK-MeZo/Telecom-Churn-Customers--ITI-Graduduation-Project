@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Telecon_SSAS_Final", "Telecon_SSAS_Final.dwproj", "{D5597B60-B310-443C-9C14-661F1EA06E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5597B60-B310-443C-9C14-661F1EA06E90}.Development|Default.ActiveCfg = Development
+		{D5597B60-B310-443C-9C14-661F1EA06E90}.Development|Default.Build.0 = Development
+		{D5597B60-B310-443C-9C14-661F1EA06E90}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {147DB632-B03D-44D2-AB1D-EAF5A0DF7B6D}
+	EndGlobalSection
+EndGlobal

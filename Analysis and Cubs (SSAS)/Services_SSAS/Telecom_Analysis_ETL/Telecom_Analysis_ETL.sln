@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Telecom_Analysis_ETL", "Telecom_Analysis_ETL\Telecom_Analysis_ETL.dwproj", "{918765F8-9B16-4368-8209-A6F360F7ED45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918765F8-9B16-4368-8209-A6F360F7ED45}.Development|Default.ActiveCfg = Development
+		{918765F8-9B16-4368-8209-A6F360F7ED45}.Development|Default.Build.0 = Development
+		{918765F8-9B16-4368-8209-A6F360F7ED45}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CB8B6FF-99FC-4F0C-AC31-86AF713A9FCA}
+	EndGlobalSection
+EndGlobal
